@@ -1,6 +1,7 @@
 {"patch": {
     "version": "16032017",
     "filepatch": [
-        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/e523cc2b?raw=true"}
+        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/e523cc2b?raw=true"},
+        {"filename": "File2", "url": "https://github.com/HunterGS/dummy1/blob/master/file2?raw=true"}
     ]
 }}
