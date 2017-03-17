@@ -1,5 +1,5 @@
 {"patch": {
-    "version": "20170317",
+    "version": "20170317v01",
     "filepatch": [
         {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/test/e523cc2b", "original": "https://github.com/HunterGS/dummy1/blob/master/original/e523cc2b?raw=true"},
         {"filename": "49744fd6", "url": "https://github.com/HunterGS/dummy1/blob/master/49744fd6?raw=true", "original": "https://github.com/HunterGS/dummy1/blob/master/original/49744fd6?raw=true"}
