@@ -1,7 +1,7 @@
 {"patch": {
-    "version": "20170317v6",
+    "version": "20170317v7",
     "filepatch": [
-        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/test/e523cc2b_sort?raw=true", "original": "https://github.com/HunterGS/dummy1/blob/master/original/e523cc2b?raw=true"},
+        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/test/e523cc2b_Tro_Mul_Pur?raw=true", "original": "https://github.com/HunterGS/dummy1/blob/master/original/e523cc2b?raw=true"},
         {"filename": "49744fd6", "url": "https://github.com/HunterGS/dummy1/blob/master/49744fd6?raw=true", "original": "https://github.com/HunterGS/dummy1/blob/master/original/49744fd6?raw=true"}
     ]
 }}
