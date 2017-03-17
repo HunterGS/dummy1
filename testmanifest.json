@@ -1,7 +1,7 @@
 {"patch": {
     "version": "17032017.4",
     "filepatch": [
-        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/test/e523cc2b_1", "original": "https://github.com/HunterGS/dummy1/blob/master/original/e523cc2b?raw=true"},
+        {"filename": "e523cc2b", "url": "https://github.com/HunterGS/dummy1/blob/master/test/e523cc2b_beta", "original": "https://github.com/HunterGS/dummy1/blob/master/original/e523cc2b?raw=true"},
         {"filename": "49744fd6", "url": "https://github.com/HunterGS/dummy1/blob/master/49744fd6?raw=true", "original": "https://github.com/HunterGS/dummy1/blob/master/original/49744fd6?raw=true"}
     ]
 }}
