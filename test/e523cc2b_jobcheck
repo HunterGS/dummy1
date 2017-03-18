@@ -1,0 +1,2135 @@
+CMD_ATTACK	ATTACK
+CMD_MOVE	MOV
+CMD_WAIT	WAIT
+CMD_SKILL	SKILL
+CMD_ITEM	ITEM
+CMD_GUARD	GRD
+CMD_RENKEI	COOPSKL
+CMD_END	End
+CMD_PICKUP	Pick Up
+NO_TARGET	No Target
+SELECT_TARGET	Please Select Target
+CONFIRM_TURN_END	End Turn?
+CONFIRM_SKILL	Use {0}?
+CONFIRM_ITEM	Use {0}?
+CONFIRM_ATTACK	Attack {0}?
+CONFIRM_PARTY	Party has been changed。<br>Confirm the changes?
+CONFIRM_POINT	Not enough AP。<br>Would you consume {0} gem<br>To recover 120 AP?
+MSG_SELECT_TARGET	Activate unit skill<br>Please select the targeted panel.
+COUNT_USELIMIT	Remaining：
+CASTSPEED	Cast Speed：
+CMD_UNIT	Unit
+CMD_GRID	Panel
+LV	Lv
+EXP	EXP
+GOLD	Zenny
+COIN	Gem
+AP	AP
+TOUR_COIN	Tour Coin
+ARENA_COIN	Arena Coin
+MULTI_COIN	Multi Coin
+EVENT_COIN	Event Coin
+PARAM_HP	HP
+PARAM_ATK	Atk
+PARAM_DEF	Def
+PARAM_MAG	Mag
+PARAM_MND	Mnd
+PARAM_REC	Rec
+PARAM_DEX	Dex
+PARAM_SPD	Spd
+PARAM_CRI	Cri
+PARAM_LUK	Luck
+PARAM_RANGE	Range
+PARAM_MOV	Mov
+PARAM_ASSIST_FIRE	FireAtrbt
+PARAM_ASSIST_WATER	WaterAtrbt
+PARAM_ASSIST_WIND	WindAtrbt
+PARAM_ASSIST_THUNDER	ThunderAtrbt
+PARAM_ASSIST_SHINE	LightAtrbt
+PARAM_ASSIST_DARK	DarkAtrbt
+PARAM_ASSIST_POISON	PoisonAtrbt
+PARAM_ASSIST_PARALYSE	ParalyzeAtrbt
+PARAM_ASSIST_STUN	StunAtrbt
+PARAM_ASSIST_SLEEP	SleepAtrbt
+PARAM_ASSIST_CHARM	CharmAtrbt
+PARAM_ASSIST_STONE	StoneAtrbt
+PARAM_ASSIST_BLIND	BlindAtrbt
+PARAM_REGIST_FIRE	FireRes
+PARAM_REGIST_WATER	WaterRes
+PARAM_REGIST_WIND	WindRes
+PARAM_REGIST_THUNDER	ThunderRes
+PARAM_REGIST_SHINE	LightRes
+PARAM_REGIST_DARK	DarkRes
+PARAM_REGIST_POISON	PoisonRes
+PARAM_REGIST_PARALYSE	ParalyseRes
+PARAM_REGIST_STUN	StunRes
+PARAM_REGIST_SLEEP	SleepRes
+PARAM_REGIST_CHARM	CharmRes
+PARAM_REGIST_STONE	StoneRes
+PARAM_REGIST_BLIND	BlindRes
+CMD_RANKUP	Promote
+CMD_UNLOCK	Unlcok
+MSG_COND_JOB_UNLOCK	Need Lv{1} To Unlock {0}！
+MSG_JOB_UNLOCK	Job 「{0}」 is Unlocked！
+MSG_JOB_UNLOCK_SUCCESS	Job Change Success！
+MSG_EQUIP_UNLOCK	Required Unit Lvl：{0}
+MSG_JOB_CLASSCHANGE	Class Change From {0} To {1}！
+BTN_EQUIP	Equip
+BTN_CREATE	Create
+BTN_CLOSE	Close
+BTN_FGGID	To Registration
+LEVEL_NOT_ENOUGH	Lvl Not Enough
+GOLD_NOT_ENOUGH	Zeny Not Enough
+ITEM_NOT_ENOUGH	Missing Req Item
+LEVEL_CAPPED	Reach Max Level
+RARITY_CAPPED	Reach Max Rarity
+KAKUSEI_CAPPED	Has Reach Max Limit Break
+CONFIRM_KAKUSEI	Use {1} to {0}<br>Will you Awaken Unit？
+CONFIRM_KAKUSEI2	Will you use fragment to Limit Break unit？
+CONFIRM_KAKUSEI3	Do not have enough fragment。
+CONFIRM_KAKUSEI4	There are missing fragment。
+KAKUSEI_KAKERA_CHARA	{0}×{1}（Have{2}）
+KAKUSEI_KAKERA_ELEMENT	{0}×{1}（Have{2}）
+KAKUSEI_KAKERA_COMMON	{0}×{1}（Have{2}）
+KAKUSEI_CONFIRM_ELEMENT_KAKERA	<color=#F6FF90>{0}</color><br>Fragment are included。<br>Would you Limit Break？
+KAKUSEI_CONFIRM_COMMON_KAKERA	Are you sure want to use 「{0}」？
+KAKUSEI_KAKERA_CONSUME	{0}×{1}
+KAKUSEI_KAKERA_AMOUNT	（Have：{0}）
+KAKERA_AMOUNT	Have：
+UNITKAKERA_AMOUNT	Fragment Pieces
+UNLOCK_JOBNAME	Job Scroll
+UNLOCK_RARITY	Required 「{0}」Rarity
+UNLOCK_AWAKELV	Required 「{0}」Limit Break
+UNLOCK_CONDITION	Required Level 「{1}」 for 「{0}」 Job
+ABILITY_UNLOCK_RANK	Required Rank {0} To Learn {1}
+UNIT_JOBMASTERBONUS_TITLE	Job Master Bonus
+ITEM_CAP_OVER	Item Cap has been reached
+RECIPE_ITEM_NOT_ENOUGH	Missing Material
+RENAME_PLAYER_NAME	Player name contain illegal Character.
+CONFIRM_CONTINUE	Would you use gem to Continue？<br><br>Use:{1} Own:{0}
+OUT_OF_STAMINA	Low of AP。<br>Do you want to use 1 gem to recover 120 AP？
+OUT_OF_STAMINA_BUYCOIN	Missing AP。<br>The number of gem required to recover AP is insufficient, Will you purchase gem？
+ABILITY_RANK_CAPPED	Ability Ranked are capped.
+OUT_OF_ABILITY_RANKUP_COUNT	Ability level growth are insufficient
+OUT_OF_ABILITY_POINT	Out of Ability Point
+GAIN_GOLD_TITLE	Acquired Zeny
+CONVERT_TO_GOLD	{0}Zeny
+ITEM_TANI_1	pcs
+ITEM_TANI_2	pcs
+ITEM_TANI_3	pcs
+SEX_0	Unknown
+SEX_1	Male
+SEX_2	Female
+RARITY_STAR_0	★
+RARITY_STAR_1	★★
+RARITY_STAR_2	★★★
+RARITY_STAR_3	★★★★
+RARITY_STAR_4	★★★★★
+RARITY_STAR_5	★★★★★★
+UNIT_ELEMENT_0	None
+UNIT_ELEMENT_1	Fire
+UNIT_ELEMENT_2	Water
+UNIT_ELEMENT_3	Wind
+UNIT_ELEMENT_4	Thunder
+UNIT_ELEMENT_5	Light
+UNIT_ELEMENT_6	Dark
+PLV	PLv
+ULV	ULv
+JLV	JobLv
+MINMAX_VALUE	{0}～{1}
+TILDE	～
+CM_HEIGHT	cm
+KG_WEIGHT	kg
+
+QUEST_OUT_OF_DATE	Quest Outdated。
+BEGINNER_QUEST_OUT_OF_DATE	Beginner Quest Outdated。
+
+; クエストのタイムリミット	
+QUEST_TIMELIMIT_D	L{0}D
+QUEST_TIMELIMIT_H	L{0}H
+QUEST_TIMELIMIT_M	L{0}M
+
+; ショップ	
+BTN_SHOP_BUYITEM	Buy Item
+BTN_SHOP_SELLITEM	Sell Item
+BTN_SHOP_ENHANCE_EQUIPMENT	Job Item Upgrade
+BTN_SHOP_COMMERCIAL_TRANSACTION	特定商取引法
+BTN_SHOP_SETTLEMENT	資金決済法
+RETURN_ITEM_TITLE	強化アイテムの返却
+CONFIRM_ITEM_CONVERT	売却アイテムをゼニーに変換しますか？
+CMD_YES	Yes
+CMD_NO	No
+CMD_DECIDE	Decide
+CMD_CANCEL	Cancel
+CMD_BUY	Buy
+CMD_BUY2	Exchange
+CMD_SELL	Sell
+CMD_UPDATED	Updated
+CMD_UPDATE	Update
+CMD_NOT_UPDATE	Not Update
+CMD_CLEARED	Clear
+CMD_SORT	Sort
+CMD_COIN_LIST	所持コイン
+HAVE_AMOUNT	所持数
+UPDATE_TIME	更新予定
+ITEM_HAVE_AMOUNT	アイテム所持数
+BUY_GOLD	購入金額
+BUY_PRICE	購入価格
+ITEM_PRICE	売却価格
+SELL_GOLD	獲得ゼニー
+SELL_PIECEPOINT	獲得コイン
+SELL_PIECEPOINT_TOTAL	獲得コイン合計
+SELL_PRICE	売却総額
+SELL_NUM	売却数
+SELECT_NUM	選択数
+SORT_INDEX	Category
+SORT_RARITY	Rarity
+ADD_HAVE_SLOT	所持枠＋{0}
+SHOP_BUY_TITLE	アイテム購入
+SHOP_SELL_TITLE	アイテム売却
+SHOP_BUY_CONFIRM_TITLE	購入確認
+SHOP_BUY_CONFIRM_TITLE2	交換確認
+SHOP_SELL_SELECTNUM_TITLE	売却数を設定
+SHOP_SELL_CONFIRM_TITLE	売却アイテム確認
+SHOP_SELL_CAUTION	レアリティ３以上のアイテムが含まれています。
+UPDATE_ITEMLIST_TITLE	商品一覧を更新
+UPDATE_ITEMLIST_MESSAGE	{0}を{1}{2}使用して<br>商品一覧を更新しますか？
+ENABLE_EQUIP_UNIT_TITLE	装備可能ユニット
+COMMERCIAL_TRANSACTION	特定商取引法
+SETTLEMENT	資金決済法
+FAILED_SHOP_TYPE	ショップ情報が存在しません。
+FAILED_SOLDOUT	既に購入済みです。
+FAILED_SOLDOUT2	既に交換済みです。
+FAILED_ITEM_CAP	所持上限に達しています。
+OUT_OF_TOURCOIN_MESSAGE	遠征コインが不足しています。
+OUT_OF_ARENACOIN_MESSAGE	Insufficient Arena Coins.
+OUT_OF_PIECEPOINT_MESSAGE	Insufficient Soul Coins.
+OUT_OF_MULTICOIN_MESSAGE	Insufficient Multi Coins
+OUT_OF_EVENTCOIN_MESSAGE	Insufficient Coins.
+FAILED_UPDATE	Fail to update
+FAILED_BUY_ITEM	Fail to buy
+FAILED_BUY_ITEM2	Fail to exchange
+
+; 魂の交換所	
+PIECE_POINT	Soul Coin
+PIECE_EXCHANGE_TITLE	Exchange with items
+PIECE_CONVERT_TITLE	Convert from Soul Frags
+PIECE_AMOUNT	所持数
+CMD_PIECE_CONVERT	変換する
+PIECE_CONVERT_HELP_MSG	限界突破レベルが最大のユニットの魂の欠片をソウルコインに変換できます
+PIECE_CONVERT_NONE_MSG	変換できるユニットの魂の欠片がありません
+PIECE_NO_SELECTION	変換する魂の欠片が選択されていません
+
+; アイテムの売却	
+UNIT_SELECT_TITLE	Unit Selection
+GAIN_ABILITYPOINT_TITLE	アビリティポイントを取得
+OUT_OF_COIN_CONFIRM_BUY_COIN	Insufficient Gems. Buy more?
+OUT_OF_GOLD_CONFIRM_USE_COIN	ゼニーが不足しています。<br>幻晶石を使ってゼニーを追加しますか？
+UPDATE_PRODUCTS_LIST	Update
+CONFIRM_CHANGE_PRODUCTS	幻晶石を{0}個使って<br>商品一覧を更新しますか？
+CONFIRM_SELL_ITEM_NOT_SELECT	売却アイテムが選択されていません
+
+; 装備アイテムの強化	
+CMD_ENHANCE	Enchance
+CMD_ADD	増やす
+CMD_SUB	減らす
+FAILED_ENHANCE	強化失敗
+ENHANCE_EQUIPMENT_TITLE	装備品強化
+ENHANCE_EQUIPMENT_ADDITEM	強化素材を追加
+ENHANCE_EQUIPMENT_MESSAGE	強化したい装備アイテムを<br>選択してください
+ENHANCE_EQUIPMENT_COMPLETE	{0}を強化しました！
+DIABLE_ENHANCE_EQUIPED_MESSAGE	選択した装備品は強化できません
+DIABLE_ENHANCE_RANKCAP_MESSAGE	これ以上強化できません
+DIABLE_ENHANCE_MESSAGE	強化できません
+ENHANCE_ITEM_SELECTED_COUNT	選択した<br>強化素材を
+ENHANCE_ITEM_RARITY_CAUTION	★３以上のアイテム・進化素材・ジョブの証が強化素材として選択されています。<br>よろしいですか？
+DIABLE_ENHANCE_MESSAGE_UNIT	強化できる装備がありません
+ENHANCE_EQUIPMENT_NOGOLD_TITLE	強化できません
+ENHANCE_EQUIPMENT_NOGOLD	装備強化に必要なゼニーが不足しています
+
+; アイテムリスト	
+ITEMLIST_TITLE	Item List
+ITEM_ALL	All
+ITEM_USED	Expendables
+ITEM_EQUIP	Equipment
+ITEM_ITEM_PIECE	Material
+ITEM_MATERIAL	素材
+ITEM_UNIT_PIECE	Fragment
+
+; アンロック情報	
+UNLOCK_SHOP	Anna's Shop
+UNLOCK_ARENA	Arena
+UNLOCK_TOUR	ツアー
+UNLOCK_SHOPTABI	Maria's Shop
+UNLOCK_SHOPKIMAGURE	Luiza's Shop
+UNLOCK_SHOPMONOZUKI	Soul Shop
+UNLOCK_CAVE	地底洞窟
+UNLOCK_TOWER	異層塔ヴェーダ
+UNLOCK_MULTIPLAY	Multiplayer Co-op
+UNLOCK_UNITAWAKING	限界突破
+UNLOCK_UNITEVOLUTION	進化
+UNLOCK_ENHANCEEQUIP	装備強化
+UNLOCK_ENHANCEABILITY	アビリティ強化
+
+; パラメータ	
+Hp	HP
+HpMax	MAXHP
+Mp	Jewel
+MpIni	Initial Jewel
+Atk	PATK
+Def	PDEF
+Mag	MATK
+Mnd	MDEF
+Rec	Rec
+Dex	DEX
+Spd	SPD
+Cri	CRIT
+Luk	LUCK
+Mov	MOVE
+Jmp	Jump
+EffectRange	Range
+EffectScope	効果範囲
+Combi	CHAIN
+EffectHeight	効果可能高低差
+Assist_Fire	FireAttribute
+Assist_Water	WaterAttribute
+Assist_Wind	WindAttribute
+Assist_Thunder	ThunderAttribute
+Assist_Shine	LightAttribute
+Assist_Dark	DarkAttribute
+Assist_Element4	四属性補正
+Assist_Element6	全属性補正
+Assist_Poison	Poison Attribute
+Assist_Paralysed	Paralyze Attribute
+Assist_Stun	Stun Attribute
+Assist_Sleep	Sleep Attribute
+Assist_Charm	Charm Attribute
+Assist_Stone	Stone Attribute
+Assist_Blind	Blind Attribute
+Assist_DisableSkill	Silence Attribute
+Assist_DisableMove	移動禁止属性
+Assist_DisableAttack	攻撃禁止属性
+Assist_Zombie	ゾンビ化属性
+Assist_DeathSentence	死の宣告属性
+Assist_Berserk	Berserk Attribute
+Assist_Knockback	Knock-back Attribute
+Assist_ResistBuff	バフ属性
+Assist_ResistDebuff	デバフ属性
+Assist_Stop	Stop Attribute
+Assist_Fast	Clock Up Attribute
+Assist_Slow	Clock Down Attribute
+Assist_AutoHeal	Auto-Regen Attribute
+Assist_Donsoku	鈍足属性
+Assist_Rage	Rage Attribute
+Assist_GoodSleep	快眠属性
+Assist_ConditionAll	全状態異常属性
+Resist_Fire	Fire Resist
+Resist_Water	Water Resist
+Resist_Wind	Wind Resist
+Resist_Thunder	Thunder Resist
+Resist_Shine	Light Resist
+Resist_Dark	Dark Resist
+Resist_Poison	Poison Resist
+Resist_Paralysed	Paralyze Resist
+Resist_Stun	Stun Resist
+Resist_Sleep	Sleep Resist
+Resist_Charm	Charm Resist
+Resist_Stone	Stone Resist
+Resist_Blind	Blind Resist
+Resist_DisableSkill	Silence Resist
+Resist_DisableMove	移動禁止耐性
+Resist_DisableAttack	攻撃禁止耐性
+Resist_Zombie	ゾンビ化耐性
+Resist_DeathSentence	死の宣告耐性
+Resist_Berserk	Berserk Resist
+Resist_Knockback	Knock-back Resist
+Resist_ResistBuff	バフ耐性
+Resist_ResistDebuff	デバフ耐性
+Resist_Stop	Stop Resist
+Resist_Fast	Clock Up Resist
+Resist_Slow	Clock Down Resist
+Resist_AutoHeal	Auto-Regen Resist
+Resist_Donsoku	鈍足耐性
+Resist_Rage	Rage Resist
+Resist_GoodSleep	快眠耐性
+Resist_ConditionAll	全状態異常耐性
+HitRate	HitRate
+AvoidRate	AvoidRate
+CriticalRate	CriticalRate
+GainJewel	JewelGain
+UsedJewelRate	Jewel Consumption
+ActionCount	アクション回数操作
+SlashAttack	Slash Attack
+PierceAttack	Pierce Attack
+BlowAttack	Blow Attack
+ShotAttack	Shoot Attack
+MagicAttack	Magic Attack
+ReactionAttack	Counter Attack
+JumpAttack	Jump Attack
+GutsRate	Guts
+AutoJewel	Auto Jewel Regen
+ChargeTimeRate	チャージ時間割合
+CastTimeRate	キャスト時間割合
+BuffTurn	バフ効果ターン
+DebuffTurn	デバフ効果ターン
+CombinationRange	Chain Range
+HpCostRate	HP消費割合
+SkillUseCount	スキル使用回数
+PoisonDamage	毒ダメージ割合
+PoisonTurn	毒効果ターン
+Assist_AutoJewel	ジュエル自動回復属性
+Resist_AutoJewel	ジュエル自動回復耐性
+Assist_DisableHeal	回復無効属性
+Resist_DisableHeal	回復無効耐性
+Resist_Slash	Slash Resist
+Resist_Pierce	Pierce Resist
+Resist_Blow	Blow Resist
+Resist_Shot	Shoot Resist
+Resist_Magic	Magic Resist
+Resist_Reaction	Counter Resist
+Resist_Jump	Jump Resist
+Avoid_Slash	斬撃回避率
+Avoid_Pierce	刺突回避率
+Avoid_Blow	打撃回避率
+Avoid_Shot	射撃回避率
+Avoid_Magic	魔法回避率
+Avoid_Reaction	反撃回避率
+Avoid_Jump	ジャンプ回避率
+UNIT_SORT_WINDOW_TITLE	並び替え
+
+; ユニットソート	
+FILTER_TITLE	Filter
+FILTER_ZENEI	前衛
+FILTER_TYUEI	中衛
+FILTER_KOUEI	後衛
+FILTER_FIRE	Fire
+FILTER_WATER	Water
+FILTER_WIND	Wind
+FILTER_THUNDER	Thunder
+FILTER_SHINE	Light
+FILTER_DARK	Dark
+FILTER_ZAN	Slash
+FILTER_TOTSU	Pierce
+FILTER_DA	Blow
+FILTER_SHA	Shoot
+FILTER_MAG	Mag
+FILTER_NONE	Other
+FILTER_ENV	Envylia
+FILTER_WRATH	Wrathtris
+FILTER_SAGA	Saga
+FILTER_SLOTH	Slothstein
+FILTER_LUST	Lustoberg
+FILTER_WADATSUMI	Wadatsumi
+FILTER_DESERT	Desert
+FILTER_GREED	Greed Dike
+FILTER_GLUTTONY	Glutonny Foz
+FILTER_OTHER	Other
+SORT_TITLE	Sort
+SORT_TIME	Acquired
+SORT_RARITY	Rarity
+SORT_LEVEL	Level
+SORT_TOTAL	Power
+SORT_JOBRANK	JOB Lv
+SORT_HP	HP
+SORT_ATK	PATK
+SORT_DEF	PDEF
+SORT_MAG	MATK
+SORT_MND	MDEF
+SORT_SPD	SPD
+SORT_TOTAL	Power
+SORT_AWAKE	LimitBreak
+SORT_COMBINATION	Chain
+SYOJUN	ASC
+KOUJUN	DESC
+FILTER_CLEAR	CLEAR
+FILTER_ALL	ALL
+BTN_SORTFILTER	Sort
+BTN_SORTFILTER2	Filter Used
+FILTER_NOUNIT	Filter Unit Not Found
+RESET	Reset
+OK	OK
+RAID_RESULT_INDEX	Battle{0}
+TODAY	Today
+TOMORROW	Tomorrow
+PLAYER_RESULT	PLAYER RESULT
+RAID_DROPITEM	Drop Item
+
+; クエストミッション	
+BONUS_NODEATH	No Unit Deaths
+BONUS_KILLALL	Kill all Enemies
+BONUS_LIMITEDTURN	Clear within {0} Turns
+BONUS_COMBOCOUNT	{0} Combo and Up
+BONUS_NOSKILL	No Skill Use
+BONUS_MAXSKILLCOUNT	Max {0} Skill Uses
+BONUS_NOITEM	No Item Use
+BONUS_MAXITEMCOUNT	Item Use Max {0} Times
+BONUS_MAXPARTYSIZE	{0} Party Size Maximum
+BONUS_LIMITELEMENT	{0} Element Only
+BONUS_LIMITUNIT	Bring {0} and clear
+BONUS_NOMERCENARY	No Mercenary Use
+BONUS_NOHEAL	No Healing
+BONUS_TOTALHEALMAX	Heal {0}HP Total
+BONUS_TOTALHEALMIN	Heal {0}HP and Below
+BONUS_TOTALDAMAGESMAX	与えた総ダメージ{0}以下
+BONUS_TOTALDAMAGESMIN	与えた総ダメージ{0}以上
+BONUS_TOTALDAMAGESTAKENMAX	受けた総ダメージ{0}以下
+BONUS_TOTALDAMAGESTAKENMIN	受けた総ダメージ{0}以上
+BONUS_KILLSTREAK	{0} Kills in 1 Turn and Up
+BONUS_CTMAX	Clear Before Reinforcement Arrive
+BONUS_NOCONTINUE	No Continue
+BONUS_CONTINUEMAX	Max {0} Continues
+BONUS_NONPCDEATH	No NPC Deaths
+
+; クエスト参加制限	
+QUEST_CHARACTER_CONDITION	Raise {0} into Lv{1}
+QUEST_CHARACTER_CONDITION_OTHER	(There are other condition)
+
+CONFIRM_CLASSCHANGE	<color="#ff0000">「{0}」will be overwritten when<br>「{1}」is unlocked.<br>Skills, Abilities, and Job Mastery Bonus will be lost。</color><br>Job change「{0}」to「{1}」?
+
+; ユニットのアンロック	
+UNIT_UNLOCK_TITLE	Train Unit
+UNIT_UNLOCK_COMMENT	Do you want to train this unit?
+UNIT_GAINED_QUEST_TITLE	How to get
+UNIT_GAINED_QUESTLIST_TITLE	Available Quest
+UNIT_GAINED_COMMENT	<br>
+
+LEARNING_COND_TITLE	Learning condition
+ABILITY_LEANING_COND1	{0}のJOB Lv{1}で習得
+ABILITY_LEANING_COND2	{0}のCLEARで習得
+SKILL_LEANING_LIST	Ability List
+SKILL_LEANING_CONDITION1	Need {0} Ability Lv To Learn
+
+; 実績	
+TROPHY_PLAYERLV	Reach Player Lv{0}。
+TROPHY_KILLENEMY	Kill {1} 「{0}」。
+TROPHY_GETITEM	Get {1} 「{0}」 Item。
+
+TROPHY_WINQUEST	Clear 「{0}」 Quest {1} Times。
+TROPHY_WINQUEST_NORMAL	Clear Normal Quest {0} Times。
+TROPHY_WINQUEST_ELITE	Clear Hard Quest {0} Times。
+TROPHY_WINQUEST_EVENT	Clear Event Quest {0} Times。
+
+TROPHY_LOSEQUEST	クエスト「{0}」で{1}回敗北する。
+TROPHY_LOSEQUEST_NORMAL	ノーマルクエストで{0}回敗北する。
+TROPHY_LOSEQUEST_ELITE	ハードクエストで{0}回敗北する。
+TROPHY_LOSEQUEST_EVENT	イベントクエストで{0}回敗北する。
+
+TROPHY_GACHA	Gacha {0} Times。※Rare and Normal Summon
+TROPHY_GACHA_NORMAL	Gacha {0} Times。
+TROPHY_GACHA_RARE	Rare Gacha {0} Times。
+TROPHY_GACHA_VIP	Paid Gacha{0} Times。
+
+TROPHY_MULTIPLAY	Play Co-op {0} times.
+TROPHY_ABILITY	アビリティを{0}回強化する。
+TROPHY_SOUBI	装備を{0}回強化する。
+TROPHY_BUYGOLD	Buy zeny {0} times.
+
+TROPHY_VIP	VIPランク{0}の報酬です。
+
+TROPHY_STAMINA	{0}:00 ～ {1}:00
+TROPHY_REVIEW	レビューを書いて報酬ゲット!!
+TROPHY_OUTDATED	報酬受け取り期間が終了しています。
+TROPHY_FOLLOWTWITTER	公式Twitterアカウントをフォローして報酬ゲット!!
+TROPHY_FGGID	FgGID登録と連携をして報酬ゲット！！
+
+TROPHY_UNITLV	{0}のユニットレベル{1}に到達する。
+TROPHY_EVOLUTIONCNT	{0}の進化　★{1}に到達する。
+TROPHY_JOBLV	{0}のユニットジョブ{1}レベル　{2}に到達する。
+TROPHY_LOGINCNT	プレイヤーのログイン日数　{0}に到達する。
+
+TROPHY_UNITLVUP	ユニット{0}のレベルを{1}上げる。
+TROPHY_UNITLVMAKE	ユニット{0}のレベルを{1}にする。
+TROPHY_EQUIP	ユニット{0}に装備品を{1}個装備させる。
+TROPHY_JOBLVUP	ユニット{0}のJob{1}Lvを{2}上げる。
+TROPHY_JOBLVMAKE	ユニット{0}のJob{1}Lvを{2}にする。
+TROPHY_LIMITBREAK	ユニット{0}の限界突破を{1}回させる。
+TROPHY_EVOLUTIONTIMES	ユニット{0}を{1}回進化させる。
+TROPHY_CHANGEJOB	ユニット{0}のジョブチェンジを{1}回行う。
+TROPHY_CHANGEABILITY	ユニット{0}のアビリティセットを変更する
+TROPHY_ABILITYLV	ユニット{0}のアビリティ{1}レベルをLv{2}にする。
+TROPHY_WINSOLIDER	傭兵を連れて{0}回クエストをクリアする。
+TROPHY_WINMULTI	マルチプレイクエスト{0}を{1}回クリアする。
+TROPHY_BUYATSHOP	ショップ{0}でアイテム{1}を{2}個購入する。
+TROPHY_AFORDRILL	武具{0}錬成を{1}回行う。
+TROPHY_AFSTRENGTHEN	武具{0}強化を{1}回行う。
+TROPHY_AFVOLUTION	武具{0}進化を{1}回行う。
+TROPHY_WINMULTIMORE	マルチプレイクエスト{0}を{1}人以上でクリアする。
+TROPHY_WINMULTILESS	マルチプレイクエスト{0}を{1}人以下でクリアする。
+TROPHY_COLLECTUNITS	ユニットを{0}体集める。
+TROPHY_TOTALUNITLVS	ユニットの合計レベルを{0}以上にする。
+TROPHY_TOTALJOBLV11	ユニット{0}体をジョブレベル11にする。
+TROPHY_CHILDRENCOMP	チャレンジミッションをクリアしよう。
+
+TROPHY_ARENA	闘技場を{0}回プレイする。
+TROPHY_WINARENA	闘技場で{0}回勝利する。
+TROPHY_LOSEARENA	闘技場で{0}回敗北する。
+
+TROPHY_WINTOWER	{0}「{1}」を{2}回クリアする。
+TROPHY_WINTOWER_NORMAL	タワー型クエストを{0}回クリアする。
+TROPHY_LOSETOWER	{0}「{1}」で{2}回敗北する。
+TROPHY_LOSETOWER_NORMAL	タワー型クエストで{0}回敗北する。
+
+TROPHY_VS	Do PVP {0} Times。
+TROPHY_VSWIN	Win PVP {0} Times。
+TROPHY_VSLOSE	Lose PVP {0} Times。
+
+TROPHY_DAILYALL	Clear All Daily Mission。
+
+; マルチ	
+DEFAULT_ROOM_COMMENT	参加大歓迎！
+
+MP_SELECT_CONTINUE	Use <fix:continue_cost> gems<br>and continue?
+MP_SELECT_REVIVE	幻晶石を<fix:continue_cost_multi>個使用して<br>死亡したキャラクターを復活させますか？
+MP_SELECT_CONTINUE_NOCOIN	Insufficient Gems. Buy more?
+MP_FIRST_CONTACT_TITLE	Co-op Play
+MP_FIRST_CONTACT_MSG	<mp_first_contact>人目と初顔合わせをしました！<br>ギフトから報酬を受け取ることができます。
+
+MP_LINE_TITLE	LINE Play
+MP_LINE_EXIT_QUEST	クエストを中止し、LINEプレイを開始します
+MP_LINE_SELECT_RETRY	Cannot join room. Retry?
+MP_LINE_POST	LINEに送信します。チームメンバーを募集してクエストを開始するには、LINEに投稿されたアドレスをタップしてください
+MP_LINE_POST_VERSUS	LINEで友だちに共有しますか？
+
+MP_START_QUEST_FEW_PLAYERS	Room not full yet. Still start?
+
+MP_LINE_HTTP	http://line.me/R/msg/text/?
+MP_LINE_TEXT	誰ガ為のアルケミストでマルチプレイ！<br>https://al.fg-games.co.jp/multi-join/?param={0}<br><br>インストールはこちら！<br>iOS<br>https://itunes.apple.com/jp/app/arukemisuto/id1018089162?ls=1&mt=8<br><br>android<br>https://play.google.com/store/apps/details?id=jp.co.gu3.alchemist
+MP_LINE_VERSUS_TEXT	誰ガ為のアルケミストでマルチ対戦！<br>https://al.fg-games.co.jp/multi-join/?param={0}<br><br>インストールはこちら！<br>iOS<br>https://itunes.apple.com/jp/app/arukemisuto/id1018089162?ls=1&mt=8<br><br>android<br>https://play.google.com/store/apps/details?id=jp.co.gu3.alchemist
+
+MP_REST_REWARD	本日の残り報酬獲得回数は<color="#ff0000">{0}</color>回です
+
+RESTORE_ABILITY_RANKUP_NUM	幻晶石を{0}個消費して<br>アビリティ強化回数を回復しますか？
+RESTORE_ABILITY_NOCOIN	幻晶石が不足しています。
+
+MOVE_BLOCKED	そこには移動できません。
+CONFIRM_GIVEUP	本当に撤退してよろしいですか?
+CONFIRM_GIVEUP_ARENA	本当にスキップしてよろしいですか?
+
+; 幻晶石ショップ	
+TITLE_APP_PURCHASE	Purchase Gem
+BIRTHDAY_FORMAT	{0}Y{1}M{2}D
+CONFIRM_BIRTHDAY	Please confirm <birthday>. Once registered this cannot be changed!
+CONFIRM_PURCHASE	Purchase <selected_product>？
+REQUEST_PURCHASE_SUCCESS	Bought
+TITLE_AGREE	Agree
+MSG_AGREE	Minors should seek parental consent before buying!<br><br>You can purchase unlimited amount beyond 20 years old.
+CROSS_NUM	×{0}
+VIP_REMAIN_D	Left {0}d
+VIP_EXPIRE_HHMM	{0}:{1:D2}まで
+
+LEANING_SKILL_TITLE	Skill learned
+
+NEWGAME_DEBUGUSER	デバッグユーザーとして開始しますか?
+
+ARENA_OUTOFTICKET	本日の挑戦チケットを使い果たしました。
+LEADERNOTSET	Please set your Leader
+
+; データ引き継ぎ	
+HIKKOSHICODE_EXPIRETIME	有効期限：{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}
+HIKKOSHI_SUCCESS	引き継ぎが完了しました。
+HIKKOSHI_FAILED	引き継ぎコードが間違っています。
+HIKKOSHI_TITLE	Please Enter Transfer Code
+HIKKOSHI_WARNING_MESSAGE	入力を3回失敗すると、本端末での引き継ぎコード入力が一定時間ロックされます。
+ご注意下さい。	
+
+HIKKOSHI_TYPE_SELECT	Data Transfer
+HIKKOSHI_FGG	Recover through FgGID
+HIKKOSHI_CODE	Enter transfer code
+HIKKOSHI_MAIL	Mail Address
+HIKKOSHI_PASS	Password
+HIKKOSHI_FGG_REGISTER	FgGIDの登録がお済でない方はこちら
+HIKKOSHI_FGG_ATTENTION	Please enter your email address and password
+
+; 機能のアンロック	
+UNLOCK_LV	Lv{0}で解放
+UNLOCK_VIP	VIPランク{0}で解放
+UNLOCK_REQLV	プレイヤーLv{0}で解放されます。
+UNLOCK_REQVIP	VIPランク{0}で解放されます。
+
+; アリーナ	
+ARENA_COOLDOWN	(あと{0:D2}:{1:D2})
+ARENA_RESET_TICKETS	幻晶石{0}個を消費して挑戦回数をリセットしますか?
+ARENA_RESET_COOLDOWN	幻晶石{0}個を消費してクールダウン時間を短縮しますか?
+ARENA_RANKING_ALL	All
+ARENA_RANKING_FRIEND	Friend
+ARENA_TOTALATK	Total Power
+ARENA_RECORD_BESTRANK	過去の最高ランク
+ARENA_RECORD_RANK	現在のランク
+ARENA_RECORD_REWARD	記録更新の報酬
+ARENA_BTN_RANKING	Ranking
+ARENA_BTN_HISTORY	履歴
+ARENA_BTN_SHOP	Exchange Shop
+ARENA_BTN_SELECT_ATTACK	Search for opponent
+ARENA_LBL_TARGET_LIST	闘技場 対戦
+ARENA_DSC_TARGET_LIST	Please select an opponent
+ARENA_BTN_REFRESH_LIST	Search again
+ARENA_LBL_ATTACK_TEAM	AttackTeam
+ARENA_LBL_DEFFENCE_TEAM	DefTeam
+ARENA_LBL_LV	Lv
+ARENA_LBL_TOTAL_ATK	Total Power:
+ARENA_LBL_RANK	Rank
+ARENA_BTN_BATTLE	Battle!!
+ARENA_BTN_BACK	Return
+ARENA_KOS	戦績
+ARENA_KOS_PARAM	{0} Battles {1} Wins
+ARENA_BATTLE_DATE	対戦日時
+ARENA_LBL_RANKING	Arena Ranking
+ARENA_LBL_HISTORY	Battle History
+ARENA_WAIT_COOLDOWN	対戦が可能になるまでもう少しお待ち下さい
+ARENA_DAYLIMIT	Cannot battle anymore today!
+ARENA_LAST_BATTLE_DATE	Date of last battle
+ARENA_HELP_CONTENT	闘技場では他のプレイヤーと最大3対3でオートバトルを行います。プレイヤーはチームを編成して対戦相手とバトルを行い、最終的に勝ち残ったユニットがいるチームの勝利となります。
+ARENA_ACTION_COUNT_REST	行動回数 残り：
+
+PLAYTUTORIAL	Do you want to play Tutorial?
+
+AGREE_TERMS	You need to agree to the TOS in order to play the game.
+
+OKYAKUSAMACODE	Customer Code:{0}
+MSG_CLEARCACHE	Re-Download?
+MSG_CLEARCACHE2	追加されたコンテンツを削除し、<br>再ダウンロードを行いますか？
+
+DL_MP	マルチプレイを快適に遊ぶため、コンテンツを事前にダウンロードする必要があります。空き容量が{0}必要ですが、ダウンロードを開始しますか？
+DL_ALL	Free space of {0} is required to download everything. Start download?
+DL_NONEED	Content is Up-to-Date.
+DL_COMPLETE	Download is complete.
+
+LASTLOGIN_DAY	Last play date：{0} d ago
+LASTLOGIN_HOUR	Last play date：{0} h ago
+LASTLOGIN_MINUTE	Last play date：{0} m ago
+
+; ログインボーナス	
+LOGBO_TODAY	今月{2}日目のログインボーナスだ！<br>{0}{1}個 を獲得したようだな！
+LOGBO_TOMMOROW	明日もログインして<br>{0}を GETするがよい！
+LOGBO_TOMMOROW2	明日もログインして<br>{0}を GETするがよい！
+LOGBO_LAST	今月はこれで終了じゃ！<br>来月も待っておるぞ！
+
+; 28日ログインボーナス	
+LOGBO_GAIN_LASTITEM	Login For 28 Days<br>To get 『{0}』！
+LOGBO_POPUP_MESSAGE	Reward <color="#FFF080">{0}{1}pc</color><br>has been sent to the Gift Box!
+
+; 月ごとログインボーナス	
+LOGBO_MONTH_TODAY	今月{2}日目のログインボーナスだ！<br>{0}{1}個 を獲得したようだな！
+LOGBO_MONTH_TOMMOROW	明日もログインして<br>{0}を GETするがよい！
+LOGBO_MONTH_TOMMOROW2	明日もログインして<br>{0}を GETするがよい！
+LOGBO_MONTH_LAST	今月はこれで終了じゃ！<br>来月も待っておるぞ！
+
+; 初心者ログインボーナス	
+LOGBO_BEGINNER_TODAY	{2}日目のログインボーナスよ！<br>{0}{1}個 をプレゼントするわ！
+LOGBO_BEGINNER_TOMMOROW	明日もログインすれば<br>{0}を プレゼントするわ！
+LOGBO_BEGINNER_TOMMOROW2	明日もログインすれば {0}を<br>プレゼントするわ！
+LOGBO_BEGINNER_LAST	これからもがんばってね！
+
+; スタートダッシュログインボーナス	
+LOGBO_START_20160709_TODAY	{2}日目のログインボーナスよ！<br>{0}{1}個 をプレゼントするわ！
+LOGBO_START_20160709_TOMMOROW	明日もログインすれば<br>{0}を プレゼントするわ！
+LOGBO_START_20160709_TOMMOROW2	明日もログインすれば {0}を<br>プレゼントするわ！
+LOGBO_START_20160709_LAST	これからもがんばってね！
+
+; カムバックログインボーナス	
+LOGBO_COMEBACK_20161208_TODAY	おかえりなさい！<br>またお会いできて嬉しいです！<br><color="#A40000">{0}{1}個</color>をどうぞ！
+LOGBO_COMEBACK_20161208_TOMMOROW	またお会いできるのを楽しみにしてます！<br>明日は<color="#A40000">{0}</color>を用意してお待ちしてますね♪
+LOGBO_COMEBACK_20161208_TOMMOROW2	またお会いできるのを楽しみにしてます！<br>明日は<color="#A40000">{0}</color>を用意してお待ちしてますね♪
+LOGBO_COMEBACK_20161208_LAST	7日間、お会い出来て嬉しかったです！<br>また明日もログインしてくださいね！<br>約束ですよ♪
+
+VIPBONUS	※VIPが受け取れる報酬は2倍です
+BONUSMSG	ログインボーナスは受信箱へ送られます。
+TRPYCOMP	達成「{0}」
+AWARD_GET	称号を獲得したのじゃ！
+
+; 日跨ぎ時のタイトルに戻すダイアログ	
+DAYCHANGE_RELOGIN	日付が変わりました
+
+// 通知リスト	
+NOTIFY_CONTENTSUNLOCK	「{0}」が開放されました！
+NOTIFY_SUPPORT	傭兵になって{1}ゼニーを獲得！
+
+; アビリティとスキルの習得	
+LEARN_ABILITY_TITLE	新たなアビリティを習得
+LEARN_SKILL_TITLE	新たなスキルを習得
+LEARN_SKILL	習得スキル
+LEARN_ABILITY_MESSAGE	新しいアビリティを習得しました！
+LEARN_SKILL_MESSAGE	新しいスキルを習得しました！
+
+; ショートカットメニュー	
+SHORTCUT_MISSION	Mission
+SHORTCUT_ITEM	Item
+SHORTCUT_TEAM	Team
+SHORTCUT_UNIT	Unit
+SHORTCUT_MAIL	Gift
+SHORTCUT_BUYCOIN	PayShop
+SHORTCUT_ARTIFACT	Armament
+SHORTCUT_SHOP	Shop
+
+NEXT_LEVEL	Next Level
+UNIT_ABILITY_LVUP	Level UP
+TIMER_RECOVER	回復
+
+TUTORIALGACHA	ファントムを入手しました
+
+; フレンド	
+FRIENDREQS	新しいフレンド申請 {0}件があります
+FRIEND_FRIENDLIST	フレンド一覧
+FRIEND_FRIENDNOTIFICATION	フレンド通知
+FRIEND_SEARCH	フレンド検索
+FRIEND_NUM	Frind
+FRIEND_DETAIL	フレンド詳細
+FRIEND_ID	ID：
+BTN_FRIEND_REMOVE	解除
+BTN_FRIEND_REQUEST	申請
+BTN_FRIEND_AGREE	承認
+BTN_FRIEND_REJECTION	拒否
+BTN_FRIEND_REJECTION_ALL	一括拒否
+BTN_FRIEND_COPY	Copy
+BTN_FRIEND_SEARCH	検索
+FRIEND_NONE_MESSAGE	フレンドが登録されていません
+FRIEND_AGREE_MESSAGE	このユーザーを承認しますか？
+FRIEND_AGREE_MESSAGE_LONG	このユーザをフレンド承認します。よろしいですか？
+FRIEND_AGREED_MESSAGE	フレンドを承認しました
+FRIEND_NOTIFICATION_MESSAGE	フレンド通知はありません
+FRIEND_LIMIT_OTHER_MESSAGE	相手のフレンド登録数が上限に達しています。
+FRIEND_MYID	あなたのID
+FRIEND_SEARCH_MESSAGE	友達のIDを検索してフレンド登録しよう！
+FRIEND_NOTFOUND_MESSAGE	入力されたユーザーIDは存在しないIDです。
+FRIEND_INPUT_MESSAGE	IDを入力してください
+FRIEND_COPY_FINISH	Finish Copy
+FRIEND_COPY_MESSAGE	プレイヤーIDをクリップボードにコピーしました
+FRIEND_FOUND_MESSAGE	このユーザーにフレンド申請しますか？
+FRIEND_ALREADY_FRIEND	登録済みのフレンドです。
+FRIEND_ALREADY_FOLLOW	すでに申請を出しています。
+FRIEND_REQUEST_MESSAGE	フレンド申請しました！
+FRIEND_REMOVE_MESSAGE_LONG	このユーザとのフレンド登録を解除します。よろしいですか？
+; フレンドお気に入り	
+FRIEND_FAVORITE	お気に入り
+FRIEND_ALREADY_FAVORITE	すでにお気に入りに登録済みです。
+FRIEND_NO_FAVORITE	お気に入りに登録されていません。
+; フレンドソート	
+FRIEND_SORT_ENTRY_DATE	登録日
+FRIEND_SORT_LAST_LOGIN	最終ログイン日時
+FRIEND_SORT_PLAYER_LEVEL	Player Lv
+
+CMD_NOTSELECT_SUPPORT	選択せずに進む
+FRIENDSUPPORT_NOTFRIEND_MESSAGE	フレンドではないので<br>スキルの効果は発動しません
+
+UNIT_LEADERSKILL_TITLE	Leader Skill
+UNIT_LEADERSKILL_NOTHAVE_NAME	None
+UNIT_LEADERSKILL_NOTHAVE_MESSAGE	No Leader Skill
+
+; ギフト	
+MAILBOX_TITLE	Gift
+MAILBOX_NOT_PERIOD	No Expiry
+MAILBOX_PERIOD	Time-Limited
+MAILBOX_READ	History
+MAILBOX_READALL	Read All
+MAILBOX_RECEIVE	Receive
+MAILBOX_RECEIVED	Received
+MAILBOX_ITEM_NUM	pc
+MAILBOX_ITEM_NUM_MAI	pc
+MAILBOX_ITEM_OVER_MSG	Item will exceed max limit, proceed to exchange? (Exceeding portion will be exchanged for Zenny)
+MAILBOX_ITEM_CONVERTED_MSG	Items beyond limit exchanged for {0} Zenny.
+MAILBOX_LIMIT_TITLE	受取期間
+MAILBOX_LIMIT	まで
+MAILBOX_RECEIVE_ALL_MESSAGE	Accept all Gifts?
+MAILBOX_RECEIVE_TITLE	Gift received
+MAILBOX_NOT_RECIEVE	Due to hold limit, some gifts could not be received.
+MAILBOX_NOT_RECIEVE_ALL	所持数制限などにより、受け取れるギフトがありませんでした。
+MAILBOX_ARTIFACT_OVER	武具の所持数制限により、武具を受け取ることが出来ませんでした。武具を分解または売却することで所持枠を空けることが可能です。
+MAILBOX_RECEIVE_TIME_HOURS	{0}h ago
+MAILBOX_RECEIVE_TIME_MINUTES	{0}m ago
+MAILBOX_RECEIVE_TIME_SECONDS	{0}s ago
+MAILBOX_ITEM_AWARD	Name:
+MAILBOX_ITEM_AWARD_RECEIVE	Name:
+
+
+ITEM_CREATESUCCESS	合成成功！
+
+QUEST_VICTORYCONDITIONS	勝利条件
+
+QUEST_CHALLENGE_NO_RESET	本日はこれ以上挑戦できません。
+QUEST_SPAN_CHALLENGE_NO_RESET	これ以上挑戦できません。
+QUEST_CHALLENGE_RESET	幻晶石{0}個を消費して挑戦回数をリセットしますか？（あと{1}回）
+
+QUEST_AP_CONDITION	プレイヤーレベル{0}未満のため、このクエストではAPを消費しません。
+
+QUESTDETAIL_TITLE	クエスト詳細
+QUESTDETAIL_MISSION	Quest Mission
+QUESTDETAIL_DROPITEM	Drop Item
+QUESTDETAIL_LIMIT	出撃制限
+QUESTDETAIL_CHAR_LIMIT	挑戦条件
+
+QUESTTYPE_EVENT	イベントクエスト一覧
+QUESTTYPE_KEY	キークエスト一覧
+KEYQUEST_UNLOCK	キークエスト開放
+KEYQUEST_OUTOFKEY	アイテムを十分な数持っていません。
+KEYQUEST_AVAILABLE_CAUTION	開放時間を過ぎました。
+KEYQUEST_UNLCOK_TIMER_D	<color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>クエストを{2}日、開放します。
+KEYQUEST_UNLCOK_TIMER_H	<color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>クエストを{2}時間、開放します。
+KEYQUEST_UNLCOK_TIMER_M	<color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>クエストを{2}分、開放します。
+KEYQUEST_UNLCOK_COUNT	<color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費してクエストを開放します。
+KEYQUEST_TIMEOVER_D	開放時間を過ぎました。<br><color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>再挑戦しますか？
+KEYQUEST_TIMEOVER_H	開放時間を過ぎました。<br><color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>再挑戦しますか？
+KEYQUEST_TIMEOVER_M	開放時間を過ぎました。<br><color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>再挑戦しますか？
+KEYQUEST_TIMEOVER_COUNT	開放時間を過ぎました。<br><color="#FFF080">{0}</color>を<color="#FFF080">{1}</color>個消費して<br>再挑戦しますか？
+KEYQUEST_UNLCOK_ITEM_AMOUNT	所持数：
+KEYQUEST_CAUTION_NOTQUEST	開催中のイベントはありません
+
+RESET_STAMINA	幻晶石を{0}個消費して<br>APを{1}回復しますか?<br><br>APは最大1000までしか回復できません。
+STAMINAFULL	回復の必要はありません
+BUYGOLD	無償幻晶石{0}個を<br>{1}ゼニーに交換しますか?<br><br>有償幻晶石 {2}個／無償幻晶石 {3}個
+GOLDBOUGHT	{1}ゼニー購入しました
+OUTOFCOIN	幻晶石が不足しています
+OUTOFFREECOIN	無償幻晶石が不足しています
+STAMINARECOVERED	APが回復しました。
+STAMINA_BUY_LIMIT	本日はこれ以上APを購入できません。
+GOLD_BUY_LIMIT	本日はこれ以上ゼニーを購入できません。
+
+; メニュータイトル	
+CONFIG_BTN_PLAYER	Player Info
+CONFIG_BTN_NEWS	News
+CONFIG_BTN_SUPPORT_SET	Select Mercenary
+CONFIG_BTN_LOGINBONUS	Login Bonus
+CONFIG_BTN_LOGINBONUS28DAYS	Login Bonus
+CONFIG_BTN_HELP	Help
+CONFIG_BTN_OPTION	Option
+CONFIG_BTN_HIKKOSHICODE	Data Transfer
+CONFIG_BTN_MENU	Menu
+CONFIG_BTN_SERIALCODE	Serial Code
+CONFIG_BTN_REVIEW	Review
+CONFIG_BTN_CHECKCOIN	Gem Status
+CONFIG_BTN_COPYRIGHT	Copyright
+CONFIG_BTN_TERMS	Term Of Service
+CONFIG_BTN_OFFICIALSITE	Main Site
+CONFIG_BTN_DOWNLOAD	Download All
+CONFIG_BTN_CACHECLEAR	Clear Cache
+CONFIG_BTN_INVITATIONCODE	Invitation Code
+CONFIG_BTN_ITEMBOOK	Item List
+CONFIG_BTN_UNITBOOK	Unit List
+CONFIG_BTN_STORY	Story
+CONFIG_BTN_COMMERCIAL_TRANSACTION	特定商取引法
+CONFIG_BTN_SETTLEMENT	資金決済法
+CONFIG_BTN_CONTACT	Contact
+CONFIG_BTN_PRIVACY_POLICY	Privacy Policy
+CONFIG_BTN_FGGID	FgGID
+CONFIG_BTN_REPLAY	Story Recollection
+CONFIG_BTN_TITLE	Return To Title
+
+; メニュー内容	
+CONFIG_PLAYER_LV	Player Lv
+CONFIG_PLAYER_EXP	プレイヤー経験値
+CONFIG_PLAYER_UNITLEVEL	最大ユニットLv
+CONFIG_PLAYER_VIPRANK	VIP Rank
+CONFIG_PLAYER_CHANGENAME	Change Name
+BTN_CONFIG_PLAYER_CHANGENAME	Change
+CONFIG_HIKKOSHI_PROCESS	引き継ぎ手順
+CONFIG_HIKKOSHI_CODE	Transfer Code
+CONFIG_HIKKOSHI_LIMIT	Expiration date
+CONFIG_HIKKOSHI_ISSUE	Issue Code
+CONFIG_HIKKOSHI_ATTENTION	注意事項
+CONFIG_OPTION_SOUND	Sound Setting
+CONFIG_OPTION_SE	ＳＥ
+CONFIG_OPTION_BGM	ＢＧＭ
+CONFIG_OPTION_VOICE	ＶＯＩＣＥ
+CONFIG_OPTION_AUTOBATTLE	Auto Battle Setting
+BTN_CONFIG_OPTION_AUTOBATTLE	Auto Battle
+CONFIG_OPTION_AUTOBATTLE_MSG	オートバトルONにすると<br>バトル開始からオートになります。
+CONFIG_OPTION_PUSH	プッシュ通知変更
+CONFIG_OPTION_PUSH_AP	ＡＰ全快
+CONFIG_OPTION_PUSH_NEWS	新着情報
+CONFIG_CHECKCOIN	未使用幻晶石
+CONFIG_CHECKCOIN_PAY	有料入手分
+CONFIG_CHECKCOIN_FREE	無料入手分
+CONFIG_CHECKCOIN_MESSAGE	※幻晶石は無料入手分から優先的に消費されます。<br>幻晶石購入時のボーナス幻晶石は無料入手分となります。
+
+CONFIG_ACHIEVEMENT_TITLE	実績
+CONFIG_ACHIEVEMENT_DESC	実績の確認を行います
+CONFIG_ACHIEVEMENT_BTN	実績確認
+
+CONFIG_FAQ_TITLE	よくある質問
+CONFIG_FAQ_DESC	皆様よりいただいたよくある質問をご案内
+CONFIG_FAQ_BTN	よくある質問
+
+CONFIG_CONTACT_TITLE	お問い合わせ
+CONFIG_CONTACT_DESC	お問い合わせはこちら
+CONFIG_CONTACT_BTN	お問い合わせ
+CONFIG_SHOW_OKYAKUSAMACODE_TEXT	お客様コードを表示
+CONFIG_SHOW_OKYAKUSAMACODE_BTN	表示
+
+SWITCH_ITEM	表示
+SETTLEMENT_TITLE	資金決済法に基づく表示
+COMMERCIAL_TRANSACTION_TITLE	特定商取引法に基づく表示
+
+; 名前入力	
+INPUT_PLAYERNAME_MESSAGE	名前を入力してください
+
+; お問い合わせ	
+CONTACT_TITLE	お問い合わせ
+
+; 利用規約	
+TERMOFUSE_TITLE	利用規約
+CMD_AGREE	同意する
+CMD_NOTAGREE	同意しない
+
+; ミッション	
+TROPHY_DAILY	Daily
+TROPHY_MISSION	Record
+TROPHY_MISSION_COMPLETED	達成済み
+TROPHY_COMPLETED_TILTLE	達成済みミッション
+TROPHY_BTN_CLEAR	達成!!
+MISSION_CLEAR_TITLE	達成報酬
+TROPHY_BTN_GO	挑戦する
+TROPHY_BTN_REVIEW	Review
+TROPHY_BTN_FOLLOWTWITTER	Follow
+TROPHY_BTN_FGGID_LOGIN	連携する
+TROPHY_REWARD_AP_CAPPED	既にAPが上限に達しているので、報酬を受け取れません
+TROPHY_REWARD_AP_OVERFLOW	AP上限を超えた取得分は破棄されてしまいますが、よろしいですか？
+TROPHY_REMAINING_DAY	Another {0}Days
+TROPHY_REMAINING_HOUR	Another {0}Hour
+TROPHY_REMAINING_MINUTE	Another {0}Minutes
+TROPHY_STAR5	★５で応援する
+TROPHY_DISSATISFIED	ご不満はこちらへ
+TROPHY_NOTSUPPORT	応援しない
+
+; ミッション詳細	
+TROPHY_DETAIL_TITLE	Mission detail
+TROPHY_DETAIL_CONDITIONE	Clear condition
+TROPHY_DETAIL_REWARD	Reward
+TROPHY_DETAIL_EXP	Player EXP
+TROPHY_DETAIL_CROSS	×
+
+; ミッションカテゴリ	
+TROPHY_CATEGORY_STORY	Story
+TROPHY_CATEGORY_EVENT	Event
+TROPHY_CATEGORY_TRAINING	育成
+TROPHY_CATEGORY_OTHER	Other
+
+; クエストリザルト	
+QUESTRESULT_MISSION_TITLE	Quest Mission
+QUESTRESULT_PLAYER_REWARD	プレイヤ－報酬
+QUESTRESULT_REWARD_EXP	獲得経験値
+QUESTRESULT_UNITEXP	ユニット経験値
+QUESTRESULT_REWARD_ITEM	獲得アイテム
+CMD_BACK	Return
+BTN_MISSION	Mission
+CMD_RETRY	もう１度挑戦!!
+CMD_QUESTEND	Quest End
+
+; 誕生日入力	
+BIRTHDAY_CHECK_TITLE	誕生日を入力してください
+BIRTHDAY_CHECK_CAUTION	未成年者が幻晶石を購入する場合、<br>保護者（親権者）の同意が必要です。<br>年齢確認のため、生年月日のご入力をお願いいたします。
+BIRTHDAY_AD	西暦
+BIRTHDAY_YEAR	Year
+BIRTHDAY_MONTH	Month
+BIRTHDAY_DAY	Day
+
+CMD_OK	ＯＫ
+BTN_VIP	VIP
+BTN_JOB	JOB
+
+UNIT_KAKUSEI_MAXLV	最大レベル
+
+GAIN_ITEM_TITLE	アイテムを受け取りました
+
+; アイテム受け取り	
+ITEM_RECIEVE_MSG_UNIT	個が
+ITEM_RECIEVE_EXCHANGE	ゼニーに交換されました
+
+VIP_RANK	VIP Rank
+VIP_RANKUP	VIPランクが上がりました！
+
+CONFIRM_CHANGE_PLAYER_NAME	プレイヤー名を変更しますか？
+TITLE_CHANGE_PLAYER_NAME	プレイヤー名変更確認
+
+LOCAL_NOTIFICATION_IOSACTION	Launch App
+
+; プレイヤーレベルアップ	
+PLAYER_LVUP_LV	Level
+PLAYER_LVUP_AP	現在のAP
+PLAYER_LVUP_MAXAP	最大AP
+PLAYER_LVUP_FRIEND	最大フレンド枠
+PLAYER_LVUP_UNLOCK	次をアンロック
+
+LOCAL_NOTIFICATION_STAMINA	APが最大に回復しました
+LOCAL_NOTIFICATION_STAMINA_IOS_ACT	アプリを起動
+
+; ユニットリスト	
+UNITLIST_TAB_LOCK	Unit Fragment
+UNITLIST_TAB_UNLOCK	Unit
+UNITLIST_USE	編成中
+UNITLIST_PIECE	Fragment：
+UNITLIST_AP_NEED	Necessary：
+UNITLIST_AP_UNLOCK	Necessary：
+UNITLIST_SKIN_WARNING	スキンを切り替えていても、切り替え前の見た目で演出が行われる場合があります。予めご了承ください。
+UNITLIST_SKIN_GET_TITLE	Acquired Skin
+UNITLIST_SKIN_GET	{0}を手に入れました。<br><br>※スキンの設定はユニット詳細から行うことができます。
+UNITLIST_SKIN_TITLE	Dress Up
+UNITLIST_SKIN_DEFAULT_NAME	{0}通常装備
+UNITLIST_QUEST_STORY	Story
+UNITLIST_QUEST_PIECE	Limit Fragment
+UNITLIST_DATA_REWRITE	クエストクリアで以下が上書きされますが、挑戦しますか？<br><br>{0}
+UNITLIST_REWRITE_TARGET	・<color=#F6FF90>{0}「{1}」</color><br>
+UNITLIST_REWRITE_JOB	Job
+UNITLIST_REWRITE_SKILL	Skill
+UNITLIST_REWRITE_ABILITY	Ability
+UNITLIST_REWRITE_LEADERSKILL	Leader Skill
+UNITLIST_REWRITE_MASTERABILITY	Master Ability
+UNITLIST_EXPOVERFLOW_WARNING	現在のユニットレベルMAXに必要な経験値を超えますがよろしいですか？
+
+SKILL_UNLOCKCOND_UNITLV	Need {0} Unit Level
+SKILL_UNLOCKCOND_ABILITYLV	Reach Lv {1} to learn Ability {0}
+SKILL_UNLOCKCOND_CLEARQUEST	Clear All Quest：
+
+
+; ユニット進化	
+UNITEVOLUTION_TITLE	Evolve
+UNITEVOLUTION_MESSAGE	Do you want to consume item and zeny to evolve?
+UNITEVOLUTION_ITEM_NEED	Required evolution material
+UNITEVOLUTION_GOLD	Zeny Owned
+UNITEVOLUTION_GOLD_NEED	Zeny Used
+CMD_EVOLUTION	Evolution
+DISABLE_EVOLUTION	Cannot evolve anymore
+
+; ユニットの限界突破	
+UNITAWAKE_TITLE	限界突破
+UNITAWAKE_RESULT	限界突破結果
+UNITAWAKE_RESULT_0	最大レベル　＋1
+UNITAWAKE_RESULT_1	連携値　＋1
+CMD_AWAKE	限界突破
+DISABLE_AWAKE	これ以上は限界突破できません
+UNITAWAKE_USEITEM_MSG	以下のアイテムを消費して限界突破します
+UNITAWAKE_CAUTION_MSG	限界突破に必要なアイテムが<br>不足しています
+
+PAYMENTCHECK_TITLE	課金注意と確認
+
+FRIEND_REQ_TITLE	フレンド申請
+FRIEND_REQ_MESSAGE	フレンド申請しますか？
+
+ITEMDETAIL_TITLE	アイテム詳細
+
+RAIDRESULT_UNITEXP	ユニット経験値
+RAIDRESULT_GOLD	獲得ゼニー
+
+NEWS_TITLE	新着情報
+
+MISSIONDETAIL_TITLE	Quest Mission
+MISSIONDETAIL_REWARD	Reward:
+ABILITYDETAIL_TITLE	Ability Detail
+SKILLUNLOCKCOND_TITLE	Unlock skill condition
+INDEX_MP	MP：
+
+; アイテム装備画面	
+UNIT_EQUIPMENT_TITLE	Armament
+UNIT_EQUIPMENT_RECIPE	素材合成
+UNIT_EQUIPMENT_HOWTOGET	入手方法
+UNIT_EQUIPMENT_MESSAGE	装備品はパラメーターを上げる機能です<br>6つ揃えるとジョブレベルが上がります
+UNIT_EQUIPMENT_NEED	必要
+UNIT_EQUIPMENT_AMOUNT	所持
+UNIT_EQUIPMENT_HAVEAMOUNT	所持数
+UNIT_EQUIPMENT_EQUIPLV	装備可能Lv
+UNIT_EQUIPMENT_QUEST	入手可能クエスト
+UNIT_EQUIPMENT_CREATE_MESSAGE	{0}を作成しました！
+BTN_EQUIP	装備する
+BTN_HOWTOGET	入手方法
+BTN_RECIPE	素材合成
+BTN_MADE	作成する
+BTN_MADE_ALL	ワンタップ合成
+DISABLE_QUEST_CHALLENGE	挑戦不可能なクエストです
+DISABLE_QUEST_DATE_UNLOCK	開放期間外のクエストです
+
+; アイテム一括合成	
+UNIT_ITEM_TRANSMUTE_TITLE	一括合成
+UNIT_ITEM_TRANSMUTE_MSG	以下のアイテムを消費して一括合成を行いますか？
+UNIT_ITEM_TRANSMUTE_COST	一括合成費用
+
+; 一括装備ジョブレベルアップ	
+UNIT_ALLEQUIP_TITLE	一括装備
+UNIT_ALLEQUIP_CONFIRM	以下のアイテムを消費して<br>ジョブレベルアップを行いますか？
+UNIT_ALLEQUIP_UNLOCK_CONFIRM	以下のアイテムを消費して<br>ジョブ開放を行いますか？
+UNIT_ALLEQUIP_CHANGE_CONFIRM	以下のアイテムを消費して<br>クラスチェンジを行いますか？
+UNIT_ALLEQUIP_MSG	（ジョブレベル上限に達した場合は一括装備のみ行います）
+UNIT_ALLEQUIP_NO_GOLD	※ゼニーが不足しています
+
+; クエストのポーズメニュー	
+BTN_RETIRE	Retire
+BTN_RETIRE_ARENA	Skip
+BTN_AUTOBATTLE_ON	Auto Battle ON
+BTN_AUTOBATTLE_OFF	Auto Battle OFF
+BTN_MISSION	Confirm mission
+QUESTMENU_TITLE	Quest Menu
+QUESTMENU_CHARGE_DISP	Display Range Effect
+BTN_CHARGE_DISP_ON	ＯＮ
+BTN_CHARGE_DISP_OFF	ＯＦＦ
+
+; マルチのバトルUI	
+MULTI_BATTLE_TIMELIMIT	残り時間：
+MULTI_BATTLE_THINKING	P思考中...
+MULTI_BATTLE_THINKING_COM	COM思考中...
+MULTI_BATTLE_YOURTURN	あなたのターンまであと
+MULTI_BATTLE_NOWYOURTURN	のターンです
+MULTI_BATTLE_THINKING_CONTINUE	コンティニュー思考中...
+MULTI_BATTLE_THINKING_REVIVE	復活思考中...
+MULTI_BATTLE_STAMP	Stamp
+MULTI_BATTLE_NOWTURN	Player Turn
+MULTI_BATTLE_TAISHUTSU	Pが退室しました
+MULTI_BATTLE_ROOM	あなたが部屋主になりました
+MULTI_REWARDCOUNTZERO_MSG	本日の報酬は全て受け取り済みです
+MULTI_BATTLE_RESUME	Pが復帰しました
+MULTI_BATTLE_RESUME_HOST	Pが部屋主になりました
+MULTI_BATTLE_RESUME_SUCCESS	復帰しました。
+MULTI_BATTLE_RESUME_SUCCESS_HOST	あなたが部屋主になりました
+MULTI_BATTLE_RESUME_ONLY	※他プレイヤーが全員退室したため、<br>初期状態で開始します。
+MULTI_BATTLE_WAIT_OTHERPLAYER	通信中...
+
+; マルチの準備画面	
+MULTI_READY	
+MULTI_PASSCODE	PASS：
+MULTI_EDIT_COMMENT	Comment
+MULTI_EDIT_RECRUIT	募集中
+BTN_READY	準備中
+BTN_READY_OK	準備完了
+BTN_EDITTEAM	編成
+BTN_GO	出撃
+BTN_EXIT	退室
+MULTI_EDIT_NOTJOIN	参加不可
+MULTI_INPUT_CODE	Enter PASS
+MULTI_INPUT_COMMENT	Enter Comment
+MULTI_QUEST_READY_OK	準備完了
+MULTI_QUEST_WAIT_PLAYER	参加を待っています
+MULTI_QUEST_CODE_MESSAGE	友達にこのPASSを入力してもらおう!
+MULTI_QUEST_CODE_MESSAGE_UNLOCKED	誰でも参加可能!
+MULTI_QUEST_CODE_MESSAGE_NOT_OWNER	コメントの編集と出撃はマスターのみが行えます
+MULTI_QUEST_EDIT	編成中
+BTN_COMMENT_EDIT	編集
+BTN_PLAYER_INFO	情報を見る
+MULTI_BTN_CLEAR_UNIT	人気クリア編成ランキング
+MULTI_CLEAR_RANK	第{0}位
+MULTI_CLEAR_UNIT_NAME	{0}({1})
+MULTI_CLEAR_AGGREGATING	集計中...
+MULTI_SELECT_VERSUS	対戦
+MULTI_VERSUS_FREE	フリー対戦
+MULTI_VERSUS_RANK	ランク対戦
+MULTI_VERSUS_FRIEND	フレンド対戦
+MULTI_VERSUS_MATCH	対戦開始！
+MULTI_VERSUS_ERROR	マッチングに失敗しました。
+MULTI_VERSUS_MATCHING	Matching・・・
+MULTI_VERSUS_UNIT	ユニット配置
+MULTI_VERSUS_MAP	変更
+MULTI_VERSUS_PARTY	ユニット編成
+MULTI_VERSUS_NEXT_RANK	次のランクまで
+MULTI_VERSUS_FRIEND_CREATE	ルームを作る
+MULTI_VERSUS_FRIEND_MODE	フレンドと対戦
+MULTI_VERSUS_SAME_POS	同じ位置にユニットが配置されています。
+MULTI_VERSUS_CANCEL	対戦相手がいなくなりました。
+MULTI_VERSUS_WINCNT	勝
+MULTI_VERSUS_RANKPOINT	Rank Point
+MULTI_VERSUS_STATUS	プレイヤー情報
+MULTI_VERSUS_SCORE	戦績
+MULTI_VERSUS_RANKVIEW	ランク一覧
+MULTI_VERSUS_INFO	情報
+MULTI_VERSUS_MAP_INFO	MAP詳細
+MULTI_VERSUS_MAP_SELECT	このマップに設定します。
+MULTI_VERSUS_COUNTDOWN	あと <color=#FFF080> {0} </color> 秒でスタート！
+MULTI_VERSUS_CONFIRM_RESUMEQUEST	対戦に復帰可能です。<br>復帰しますか？
+MULTI_VERSUS_RESUME_TITLE	対戦の中断復帰
+MULTI_VERSUS_RESUME_FAILURE	対戦の中断復帰に失敗しました。
+MULTI_VERSUS_RESUME_FAILURE_NOMEMBER	他プレイヤーが退室したため、対戦は終了しました。
+MULTI_VERSUS_UPDATE_MAP	マップの更新
+MULTI_VERSUS_UPDATE_MAP_FAILURE	マップの更新に失敗しました。
+MULTI_VERSUS_INV	ここで手に入る特別なURLを友達に伝えて、<br>URLをタップしてもらえば、友達と手軽に対戦ができる！
+MULTI_VERSUS_URL	Copy ＵＲＬ
+MULTI_VERSUS_FRIEND_INV	友達を呼ぶ
+MULTI_VERSUS_COPY_FINISH	クリップボードにコピーしました。
+MULTI_VERSUS_MAP_SELECT	マップ選択
+MULTI_VERSUS_VS_PLAYER_INFO	プレイヤー情報
+MULTI_VERSUS_PHOTON_ERR	IDの取得に失敗しました。
+MULTI_VERSUS_FRIEND_TITLE	友達を誘って対戦しよう！
+MULTI_VERSUS_TITLE_HELP	フリー対戦
+MULTI_VERSUS_HELP	フリー対戦では、ランダムマッチングされた他のユーザーと対戦が可能です。最大行動回数以内に勝敗が決まらない場合は、残りのHPが多いほうが勝利となり、同一の場合は引き分けとなります。
+MULTI_VERSUS_HELP_TOWER	タワーマッチでは、ランダムマッチングされた他のユーザーと対戦が可能です。開催期間終了時の階層によってシーズン報酬を獲得できます。リアルタイムPvPを勝ち抜き、最上階到達を目指しましょう。
+MULTI_VERSUS_FRIEND_HELP_TITLE	フレンド対戦
+MULTI_VERSUS_FRIEND_HELP	フレンド対戦は、友だちを招待して対戦をすることが可能です。部屋を作成し、PASSコードを共有し、入力することで対戦をすることが可能です。
+MULTI_VERSUS_FORCE_WIN	対戦相手が撤退しました。
+MULTI_VERSUS_STATUS	Status
+MULTI_VERSUS_ALREADY_END	対戦が既に終了しています。
+MULTI_VERSUS_TOWER	タワーマッチ
+MULTI_VERSUS_AWARD	報酬一覧
+MULTI_VERSUS_KEYNAME	勝者の鍵
+MULTI_VERSUS_GET	勝者の鍵をGET！！
+MULTI_VERSUS_NOW	現在
+MULTI_VERSUS_FLOOR	階
+MULTI_VERSUS_FLOOR_ARRIVAL	階到達！！
+MULTI_VERSUS_FLORR_FALL	階に降格！！
+MULTI_VERSUS_REWARD_WIN	勝利報酬
+MULTI_VERSUS_REWARD_JOIN	報酬
+MULTI_VERSUS_REWARD_GET	報酬受け取り
+MULTI_VERSUS_SEASON_REWARD	シーズン報酬獲得！
+MULTI_VERSUS_SEND_GIFT	シーズン報酬がギフトに贈られました
+MULTI_VERSUS_REWARD_NAME	<color=#FFFF00>{0}</color>
+MULTI_VERSUS_RECEIPT_PERIOD	シーズン報酬受け取り期間中です。
+MULTI_VERSUS_REWARD_GET_MSG	アイテムを獲得しました。
+MULTI_VERSUS_ARRIVAL_REWARD	到達報酬獲得！
+MULTI_VERSUS_END_AT	開催期間:　<color=#FFFF00>{0}年{1}月{2}日 {3:D02}:{4:D02}</color>　まで
+
+; マルチメニュー	
+MULTI_MENU_CREATE	Recruit Party
+MULTI_MENU_JOIN	パーティに参加
+MULTI_MENU_GPS	プレイヤーを募集
+MULTI_MENU_LINE	LINEで募集
+MULTI_BTN_SHOP	交換所
+MULTI_BTN_UPDATEROOM	部屋リストを更新
+MULTI_TELOP_CREATE_OR_JOIN	パーティを自分で募集するか<br>誰かがつくったパーティに<br>参加するか選んでくれ
+MULTI_TELOP_ABOUT_KEY	他のプレイヤーの自動入室を<br>拒否したいときは入室制限を<br>ONにしてくれ
+MULTI_QUEST_RAID	共闘クエスト
+MULTI_QUEST_VERSUS	対戦クエスト
+MULTI_QUEST_TITLE	Quest List
+MULTI_MENU_JOINROOM	Enter PASS
+MULTI_INPUT_ROOMID	PASSを入力してください
+MULTI_CONFIRM_RESUMEQUEST	マルチクエストに復帰可能です。<br>復帰しますか？
+MULTI_RESUME_TITLE	マルチクエストの中断復帰
+MULTI_RESUME_FAILURE	マルチクエストの中断復帰に失敗しました。
+MULTI_RESUME_FAILURE_NOMEMBER	他プレイヤーが全員退室したため、マルチクエストは終了しました。
+MULTI_FAILED_START	マルチクエストの開始に失敗しました。<br>再度試みてください。
+MULTI_VERSUS_FAILED_START	対戦の開始に失敗しました。<br>再度試みてください。
+
+MSG_GETGPS	位置情報を取得しています…
+MSG_CONNECTING	通信中…
+MSG_EXECUTING_CLEARCACHE	キャッシュをクリアしています…
+MSG_ASSETS_DOWNLOADING	必要なファイルをダウンロードしています…
+MSG_OPTIMIZE_DATA	データの最適化を行っています…
+
+
+BANSTATUS_OKYAKUSAMACODE	お客様コード
+BANSTATUS_TIME	ログイン可能になる日時
+
+SUPPORT_CONFIRM1	{0}さんを雇いますか？
+SUPPORT_CONFIRM2	{1}ゼニーで{0}さんを雇いますか？
+SUPPORT_NOGOLD	ゼニーが不足しています。
+TEAMNAME	Team{0}
+
+; ホーム画面メニューボタン	
+HOMEBGUI_FRIEND	Friend
+HOMEBGUI_GACHA	Gacha
+HOMEBGUI_QUEST	Quest
+HOMEBGUI_MULTI	Multi
+HOMEBGUI_SHOP	Shop
+HOMEBGUI_ARENA	Arena
+HOMEBGUI_SHOP_KIMAGURE	ルイザの店
+HOMEBGUI_SHOP_TABI	Maria Shop
+HOMEBGUI_SHOP_MONOZUKI	Soul Shop
+HOMEBGUI_ARTIFACT	武具
+HOMEBGUI_SHOP_KAKERA	魂の交換所
+HOMEBGUI_ENHANCE_EQUIPMENT	装備品強化
+HOMEBGUI_MULTI_VERSUS	対戦
+
+STAMINA_NOT_ENOUGH	APが足りません。<br>幻晶石を{0}個消費して<br>APを{1}回復しますか?
+
+; バトルスキップ確認関係	
+NO_RAID_TICKET	{0}が不足しています。
+RAIDNUM	{0}回
+CONFIRM_RAID	APを{1}消費してクエストを{0}回スキップしますか?
+TICKET_PLAYERRESULT	プレイヤー報酬
+TICKET_UNITRESULT	ユニット獲得経験値
+BTN_NEXT	Next
+SKIPBATTLE_TITLE	Use Skip Ticket
+SKIPBATTLE_TICKET	所持チケット
+SKIPBATTLE_AP	消費AP
+SKIPBATTLE_MESSAGE	スキップチケットとAPを消費して<br>クエストをスキップしますか？
+SKIPBATTLE_HEAL_NUM	幻晶石で{0}回復
+
+; ユニットのプロフィール画面	
+UNITPROFILE_PLACE	Origin
+UNITPROFILE_HEIGHT	Height
+UNITPROFILE_WEIGHT	Weight
+UNITPROFILE_BIRTHDAY	Birthday
+UNITPROFILE_SEIZA	Size
+UNITPROFILE_BLOODTYPE	BloodType
+UNITPROFILE_FAVORITE	Favorite
+UNITPROFILE_HOBBY	Hobby
+
+; 出撃画面	
+PARTYEDITOR_ITEMTAB_ALL	All
+PARTYEDITOR_ITEMTAB_HEAL	回復
+PARTYEDITOR_ITEMTAB_DAMAGE	攻撃
+PARTYEDITOR_ITEM_TITLE	アイテム選択
+PARTYEDITOR_UNIT_TITLE	ユニット選択
+PARTYEDITOR_SUPPORT_TITLE	傭兵選択
+PARTYEDITOR_BTN_QUESTDETAIL	クエスト詳細
+PARTYEDITOR_BTN_GO	Go!!
+PARTYEDITOR_BTN_REMOVE	Remove
+PARTYEDITOR_BTN_REMOVE_SUPPORT	傭兵を<br>外す
+PARTYEDITOR_BTN_SUPPORT	傭兵を<br>雇う!!
+PARTYEDITOR_MSG_SUPPORT	雇用金を払い傭兵としてユニットをチームに参加させることができます。
+PARTYEDITOR_MSG_MULTI	アイテムは使用できません
+PARTYEDITOR_SANKAFUKA	クエストに参加できないユニットがパーティに含まれています。このまま開始してもよろしいですか?
+PARTYEDITOR_CANTSTART	クエストに参加可能なユニットが存在しないためクエストを開始できません。
+PARTYEDITOR_NOHERO	ユニット：{0}を所持していないので出撃できません。
+PARTYEDITOR_SLOT_LOCKED	使用不可
+PARTYEDITOR_PARTYNOTFULL	パーティに空きスロットがあります。<br>このまま開始してもよろしいですか?
+PARTYEDITOR_BATTLE_SKIP	Battle SKip
+PARTYEDITOR_SLOT_LOCKED	使用不可
+
+PARTYEDITOR_PLV	プレイヤーレベル条件を満たしていません。
+PARTYEDITOR_ULV	ユニットレベル条件を満たしていません。
+PARTYEDITOR_ELEM	ユニット属性条件を満たしていません。
+PARTYEDITOR_JOB	ユニットジョブ条件を満たしていません。
+PARTYEDITOR_UNIT	ユニットの条件を満たしていません。
+PARTYEDITOR_SEX	ユニットの性別条件を満たしていません。
+PARTYEDITOR_RARITY	ユニットのレアリティが条件を満たしていません。
+PARTYEDITOR_HEIGHT	ユニットの身長が条件を満たしていません。
+PARTYEDITOR_WEIGHT	ユニットの体重が条件を満たしていません。
+PARTYEDITOR_JOBINDEX	ユニットのジョブ番号条件を満たしていません。
+PARTYEDITOR_BIRTH	ユニットの出身国条件を満たしていません。
+
+; 出撃条件	
+PARTYEDITOR_COND_TITLE	【制限】
+PARTYEDITOR_COND_PLV	Player Level：
+PARTYEDITOR_COND_ULV	Unit Level：
+PARTYEDITOR_COND_ELEM	属性：
+PARTYEDITOR_COND_JOB	Job：
+PARTYEDITOR_COND_UNIT	Unit：
+PARTYEDITOR_COND_SEX	Gender：
+PARTYEDITOR_COND_RARITY	Rarity：
+PARTYEDITOR_COND_HEIGHT	Height：
+PARTYEDITOR_COND_WEIGHT	Weight：
+PARTYEDITOR_COND_JOBINDEX	ジョブ番号：
+PARTYEDITOR_COND_BIRTH	出身国：
+PARTYEDITOR_COND_JOBINDEX_VALUE	第{0}ジョブ
+PARTYEDITOR_COND_UNLOCK_TEXTFRAME	【{0}】
+PARTYEDITOR_COND_UNLOCK_PARENT	{0}：{1}{2}を習得
+PARTYEDITOR_COND_UNLOCK_TITLE	{0}が下記条件をすべて満たしていること
+
+; オートバトル設定	
+PARTYEDITOR_AUTOBATTLE_TITLE	オート設定
+PARTYEDITOR_AUTOBATTLE	Auto Battle
+PARTYEDITOR_AUTOBATTLE_MSG	使用するオートバトルの設定を<br>ONにしてください
+PARTYEDITOR_AUTOBATTLE_TREASURE	宝箱優先
+PARTYEDITOR_AUTOBATTLE_TREASURE_DSC	オートバトル中に宝箱を優先して取りに行きます
+PARTYEDITOR_AUTOBATTLE_USESKILL	スキルを使用しない
+PARTYEDITOR_AUTOBATTLE_USESKILL_DSC	オートバトル中にスキルを使用しません
+
+; ユニットの簡易ヘルプ画面	
+UNITTOOLTIP_ABILITY_TITLE	Ability
+UNITTOOLTIP_NONEABILITY_MSG	アビリティがセットされていません
+
+; キャラクタークエスト	
+CHARQUEST_UNLOCK_MSG	Character Story Released
+CHARQUEST_UNLOCK	開放条件
+CHARQUEST_EP_NUM	Episode{0}
+CHARQUEST_CLEAR_ABILITY	Ability Learn!!
+CHARQUEST_CLEAR_ABILITYUPDATE	アビリティ強化!!
+CHARQUEST_CLEAR_SKILL	スキル習得!!
+CHARQUEST_CLEAR_SKILL_UPDATE	スキル強化!!
+CHARQUEST_CLEAR_LEADERSKILL	リーダースキル習得!!
+CHARQUEST_CLEAR_LEADERSKILL_UPDATE	リーダースキル強化!!
+CHARQUEST_CLEAR_MASTERABILITY	マスターアビリティ習得!!
+
+; ユニット強化画面	
+UNIT_INVENTORY_BTN_EVO	Evo
+UNIT_INVENTORY_BTN_AWAKE	Awaken
+UNIT_INVENTORY_TAB_JOBLVUP	Job
+UNIT_INVENTORY_TAB_ITEM	ユニット強化
+UNIT_INVENTORY_TAB_ABILITY	Ability
+UNIT_INVENTORY_TAB_ABILITYSET	Ability Set
+UNIT_INVENTORY_BTN_JOBLVUP	ＪＯＢＬｖ Ｕｐ
+UNIT_INVENTORY_BTN_UNLOCK	ジョブ解放
+UNIT_INVENTORY_BTN_ALLEQUIP	一括装備
+UNIT_INVENTORY_BTN_CHARAQUEST	Chara Quest
+
+UNIT_INVENTORY_JOB_TITLE	装備
+UNIT_INVENTORY_ITEM_TITLE	ユニット強化
+UNIT_INVENTORY_ABILITY_TITLE	Ability
+UNIT_INVENTORY_ABILITYSET_TITLE	アビリティセット
+UNIT_INVENTORY_SKILLUP	スキルアップ<br>可能回数
+
+UNIT_INVENTORY_BTN_DETACH	外す
+
+UE_JOB_NOT_UNLOCKED	ジョブが解放されていません。
+UE_JOBCHANGE_REQITEM	<br><color="#fff080">{0}を{1}個</color>
+UE_JOBCHANGE_REQGOLD	{0}Zeny
+UE_JOBCHANGE_CONFIRM	{0}にジョブチェンジしますか?
+
+UE_JOBCHANGE_NOITEM	アイテムが不足しています
+UE_JOBCHANGE_NOGOLD	ゼニーが不足しています
+UE_JOBCHANGE_NOITEMGOLD	アイテムとゼニーが不足しています
+
+UE_HELP_HPMAX	<color=#ffa500ff>HP</color> ：ユニットの体力です。HP0で「戦闘不能」状態になります
+UE_HELP_MP	<color=#ffa500ff>MP</color> ：ユニットの魔力。魔法などを発動すると消費します
+UE_HELP_ATK	<color=#ffa500ff>物攻</color> ：武器で相手を攻撃した時の威力です
+UE_HELP_DEF	<color=#ffa500ff>物防</color> ：武器の攻撃に対する防御力です
+UE_HELP_MAG	<color=#ffa500ff>魔攻</color> ：魔法の威力です
+UE_HELP_MND	<color=#ffa500ff>魔防</color> ：魔法攻撃に対する防御力です
+UE_HELP_SPEED	<color=#ffa500ff>素早さ</color> ：数値が高いほど早くアクティブターンが回ってきます
+UE_HELP_DEX	<color=#ffa500ff>器用さ</color> ：攻撃の威力や命中率に影響します
+UE_HELP_CRI	<color=#ffa500ff>会心</color> ：クリティカルの発生率に影響します
+UE_HELP_REC	<color=#ffa500ff>回復</color> ：回復の説明
+UE_HELP_LUCK	<color=#ffa500ff>運</color> ：運による行動に影響します
+UE_HELP_RENKEI	<color=#ffa500ff>連携</color> ：連携攻撃の発生率に影響します
+UE_HELP_MOVE	<color=#ffa500ff>Move</color> ：移動力です
+UE_HELP_JUMP	<color=#ffa500ff>Jump</color> ：移動可能な高低差です
+
+AB_RANKUPCOUNT	{0}回
+UNIT_INVENTORY_MSG_JOBLIMIT	JOB Lvが上限に達しています
+UNIT_INVENTORY_MSG_NONEABILITY	装備できるアビリティが<br>ありません
+UNIT_INVENTORY_BTN_ABILITYSET	Ability Set
+UNIT_INVENTORY_ABILITYINVAILED	Cannot Be Set
+UNIT_INVENTORY_ABILITYLOCK	外せません
+
+HARDQUEST_COUNT_INDEX	挑戦回数
+
+CONFIRM_RESUMEQUEST	クエストが中断されています。<br>再開しますか？
+
+; 2Dデモ	
+BTN_SKIP	Skip
+
+; 召喚	
+GACHA_COST_TEXT_FREE	Free
+GACHA_CAPTION_GOLD_NOT_ENOUGH	Low Zeny
+GACHA_TEXT_GOLD_NOT_ENOUGH	ぜニーが不足しています
+GACHA_CAPTION_COIN_NOT_ENOUGH	幻晶石不足
+GACHA_TEXT_COIN_NOT_ENOUGH	幻晶石が不足しています。購入しますか？
+GACHA_CAPTION_PAIDCOIN_NOT_ENOUGH	有償幻晶石不足
+GACHA_TEXT_PAIDCOIN_NOT_ENOUGH	有償幻晶石が不足しています。購入しますか？
+BTN_SINGLE_GACHA	１回召喚
+BTN_MULTI_GACHA	{0}回召喚
+BTN_CHARGE_GACHA	キャンペーン中
+BTN_TICKET_GACHA	召喚
+BTN_STEPUP_GACHA	{0}回召喚
+BTN_BUY_COIN	幻晶石購入
+BTN_GACHA_BACK	戻る
+BTN_GACHA_OK	OK
+GACHA_PAID_AT	<br>前回召喚した時刻 {0}
+CONFIRM_GACHA_COIN_P	レア召喚は★3〜5のユニットを<br>召喚出来ます。<br><br>{0}を{1}個消費して召喚しますか？{2}<br>
+CONFIRM_GACHA_COIN	{0}を{1}個消費して召喚しますか？<br>
+CONFIRM_GACHA_TICKET	{0}を{1}枚消費して召喚しますか？
+CONFIRM_GACHA_GOLD	{0}ゼニーを消費して、召喚をしますか？
+TITLE_GACHA_PAID_LIMITOVER	有償石召喚
+MSG_GACHA_PAID_LIMITOVER	有償石召喚は 0時 にリセットされ再度引けるようになります。
+MSG_GACHA_PAID_LIMITOVER_BIGNNER	有償石召喚は 0時 4時 8時 12時 16時 20時 にリセットされ再度引けるようになります。
+GACHA_COST_COIN	幻晶石
+GACHA_COST_PAIDCOIN	有償幻晶石
+GACHA_COST_TICKET	チケット
+GACHA_RESULT_TAP_NAVI	アイコンタップで詳細を確認
+GACHA_RESULT_TITLE	召喚結果
+GACHA_STEPUP_HEAD	Step
+GACHA_STEPUP_STATE	{0} / {1}
+GACHA_CHARGE_HEADER	有償幻晶石で召喚!
+GACHA_CHARGE_POSSERSS	有償所持
+GACHA_CHARGE_NUM	個
+GACHA_FREE_TIMER_AT	無料まで
+GACHA_FREE_LIMIT_HEAD	無料回数 あと
+GACHA_FREE_NUM	回
+GACHA_SHARD_COUNT	{0}/{1}
+GACHA_TEXT_SHARD_AWAKE	ジョブ {0}が<br>開放可能になりました。<br>限界突破してジョブを開放しましょう！
+GACHA_TICKET_POSSERSS	チケット所持
+GACHA_TICKET_CONFIRM	チケットを使用して召喚します。<br>消費枚数を選択してください。
+GACHA_TICKET_NUM	枚
+GACHA_TICKET_SELECT_CONFIRM	※最大10枚まで消費することができます。
+GACHA_TICKET_SELECT_TITLE	{0}召喚
+GACHA_LIST_FAILED  <br>召喚情報の取得に失敗しました。<br>ホーム画面に戻ります。	
+
+; err.txtに含まれていた例外メッセージ	
+TITLE	Error
+TITLE_CONNECTION_ERROR	通信エラー
+MSG_CONNECTION_ERROR	電波状況の良い場所でリトライしてください。
+
+TARGET_GRID_BLOCKED	そこには移動できません
+
+INVALID_QUEST	現在このクエストはプレイできません
+GPS_FAILED	位置情報が取得できません
+GPS_DENIED	位置情報の取得が許可されていません
+JOIN_LOBBY_FAILED	部屋情報の取得ができません
+SET_ROOM_COMMENT_FAILED	部屋コメントの更新ができません
+SET_ROOM_COMMENT_ILLEGAL_COMMENT	入力された内容は<br>コメントとして使用できません。
+PASSCODE_NOT_MATCH	パスコードが違います
+CREATE_ROOM_FAILED	部屋の作成ができません
+START_QUEST_FAILED	クエストを開始できません
+DISCONNECTED	切断されました(<photon_err>)
+ROOM_OWNER_EXIT	部屋主が退室しました
+UPDATE_PARTY_FAILED	パーティ編成に失敗しました
+JOIN_ROOM_FAILED	入室できませんでした
+CHEAT_QUEST	クエストの進行に問題が発生しました(0:SequenceError)
+SEQUENCE_ERROR	クエストの進行に問題が発生しました(1:PacketError)
+MP_CONTINUE_FAILED	Cannot Continue
+
+TITLE_REQUEST_PURCHASE_ERROR	購入エラー
+MSG_REQUEST_PURCHASE_ERROR	すでにアイテムを購入済みですが、データのダウンロードが完了していません。電波状況の良い場所でリトライしてください。
+MSG_REQUEST_PURCHASE_ALREADY_OWN	すでにアイテムを購入済みです。データを再ダウンロードします。
+MSG_REQUEST_PURCHASE_DEFERRED	アイテムの購入承認待ちです。しばらくお待ち下さい。
+MSG_GET_PRODUCT_LIST_WAITING_FOR_SET_UP	購入できるアイテムのリストが取得できません。端末のアカウントをご確認の上、電波状況の良い場所でしばらく時間を置いてリトライしてください。
+MSG_GET_PRODUCT_LIST_EMPTY	購入できるアイテムがありません。端末のアカウントをご確認の上、電波状況の良い場所でしばらく時間を置いてリトライしてください。
+
+TITLE_NONAGE	課金注意と確認
+MSG_NONAGE_YN	gumiさんに確認
+
+TITLE_LIMIT_OVER	上限額超過
+MSG_LIMIT_OVER	月内のご利用金額が上限に達したため、これ以上購入することができません。
+
+NOT_IMPLEMENTED	未実装です
+
+NO_UNIT	指定したユニットはいません
+ILLEGAL_PARTY	パーティ構成が不正です
+
+QUEST_UNAVAILABLE	クエストは未開放です。<br>最新のストーリークエストに移動します。
+EQUEST_UNAVAILABLE	クエストは未開放です。<br>最新のストーリークエストに移動します。
+EVENT_UNAVAILABLE	クエストは未開放です。<br>イベントクエスト一覧画面に移動します。
+
+; アイテムミニヘルプ	
+ITEMTOOLTIP_SLOT_NONE	None
+ITEMTOOLTIP_SLOT_NONE_MSG	アイテムが設定されていません
+
+EXIT_APP	ゲームを終了しますか？
+EXIT_TO_TITLE	ゲームを中断し、タイトルに戻りますか？
+
+CHECKING_FILES	コンテンツを確認しています。<br><br>しばらくお待ちください…
+
+; GoogleReview確認	
+CONFIRM_GOOGLE_REVIEW	レビューをして、幻晶石250個をGETしよう！<br>『決定』ボタンをタップすると<br>Google Playのアプリページヘ遷移します<br>※報酬の受け取りは1回のみとなっております
+
+; AppStoreReview確認	
+CONFIRM_APPLE_REVIEW	レビューをして、幻晶石250個をGETしよう！<br>『決定』ボタンをタップすると<br>App Storeのアプリページヘ遷移します<br>※報酬の受け取りは1回のみとなっております
+
+; 各画面のヘルプ	
+BTN_HELP	Help
+HELP_UNITINVENTRY_TITLE	ユニット装備画面
+HELP_UNITINVENTRY_MSG	「装備」を行うことでユニットのパラメーターを上げることができます。装備を6つ揃えるとジョブレベルを上げることができ、新たな装備品を装備することが可能となります。
+HELP_MULTI_TITLE	Multi
+HELP_MULTI_MSG	マルチでは、他のプレイヤーと最大4人のチームを作ってクエストクリアを目指します。クリアするとドロップしたアイテムとマルチコインが入手できます。マルチコインは希少なアイテムと交換できます。
+HELP_QUESTLIST_TITLE	Quest
+HELP_QUESTLIST_MSG	<color="#FFF080">・ストーリークエストについて</color><br>ストーリークエストには「ノーマル」と「ハード」モードの各難易度に応じたクエストがあります。特定のノーマルクエストをクリアすることでハードモードでのプレイが可能となります。<br><br><color="#FFF080">・イベントクエストについて</color><br>イベントクエストには曜日限定の「進化素材クエスト」と「転職クエスト」があり、初級、中級、上級など難易度の高いクエストほど希少なアイテムを入手する事が出来ます。また「ゴールドラッシュ」や「林檎の帝園」などのゼニーや経験値を大幅に獲得する事ができる不定期開催のイベントがあります。今後も新たなイベントクエストを開催予定です。<br><br><color="#FFF080">■「林檎の帝園」の開催時間</color><br>「林檎の帝園」は以下の時間帯に開催されます<br>・7時～8時<br>・12時～13時<br>・18時～19時<br>・22時～23時
+HELP_PARTYEDITOR_TITLE	出撃画面
+HELP_PARTYEDITOR_MSG	<color="#FFF080">・ストーリークエスト</color><br>ストーリークエストでは、物語の主人公1人とメインとして参加する3人、傭兵1人に加え、ユニットが行動不能になった場合に登場するサブデッキ2人の最大7人まで編成することができます。<br><br><color="#FFF080">・イベントクエスト</color><br>イベントクエストでは、ユニット4人と傭兵1人に加え、ユニットが行動不能になった場合に登場するサブデッキ２人の最大7人まで編成することができます。<br><br><color="#FFF080">・闘技場</color><br>闘技場では、ユニット3人を編成することができます。<br><br><color="#FFF080">・マルチプレイ</color><br>マルチプレイでは、ユニット1人を選択し、他のプレイヤーと最大4人のチームを編成することができます。<br><br><color="#FFF080">・タワー型クエスト『異層塔ヴェーダ』</color><br>タワー型クエスト『異層塔ヴェーダ』は、期間限定で開催されるクエストです。<br>ユニットレベル20以上のユニット5人に加え、ユニットが行動不能になった場合に登場するサブデッキ2人の最大7人まで編成することができます。クエスト毎にHPが引き継がれ、生存している全てのユニットでチャレンジする事が可能です。<br><br><color="#FFF080">・対戦</color><br>対戦では、最大5人まで編成可能となります。傭兵の選択はありません。編成画面の「ユニット配置」より、マップでのユニット配置が可能となります。
+HELP_MISSION_TITLE	Mission
+HELP_MISSION_MSG	「ミッション」とは、特定の条件を達成することで条件に応じた「達成報酬」を入手することが出来ます。<br>デイリーミッションは毎日0時に更新され、再度チャレンジすることが可能です。
+HELP_SHOP_TITLE	Shop
+HELP_SHOP_MSG	お店では「ゼニー」や「幻晶石」を使って「アイテム」やユニットの「魂の欠片」を購入することができます。また「装備品強化」で、装備品のステータスを上昇させることが可能です。
+HELP_FRIEND_TITLE	Friend
+HELP_FRIEND_MSG	フレンド機能は、ほかのプレイヤーとフレンドになるための機能です。フレンドになるとそのフレンドが「傭兵」としてクエスト出撃で選べるようになり、必要ゼニーが半額になるといったメリットがあります。
+HELP_UNITLIST_TITLE	Unit List
+HELP_UNITLIST_MSG	ユニットと欠片ユニットの一覧を確認できます。欠片ユニットの一覧では「魂の欠片」の所持数を確認することができます。また、「魂の欠片」が特定数集まるとユニットを錬成することができます。
+HELP_UNITEQUIP_TITLE	ジョブ（装備）
+HELP_UNITEQUIP_MSG	「装備」を行うことでユニットのパラメーターを上げることができます。装備を6つ揃えるとジョブレベルを上げることができ、新たな装備品を装備することが可能となります。
+HELP_UNITEXP_TITLE	強化
+HELP_UNITEXP_MSG	ユニット強化とは、『林檎』を使用することでEXPを獲得し、ユニットのLvを上げることができます。<br>なお、ユニットレベルは、プレイヤーレベルと同じレベルまで上げることができます。
+HELP_ABILITYLIST_TITLE	Ability
+HELP_ABILITYLIST_MSG	アビリティには『アクション』『リアクション』『サポート』の3種類が存在し、各アビリティのLvは『ゼニー』を消費してあげることで、スキルを新たに習得したり、性能を上げることができます。
+HELP_ABILITYSET_TITLE	アビリティセット
+HELP_ABILITYSET_MSG	アビリティセットでは、ジョブ固有のアビリティと修得したアクションアビリティを1つセットできます。さらに『リアクションアビリティ』を1つと、最大2つの『サポートアビリティ』をセットすることができます。
+HELP_ARTIFACT_TITLE	武具
+HELP_ARTIFACT_MSG	「武具」とは、付け替えが可能な装備品です。武具は主に召喚やクエストで手に入れることができ、「武具強化」や「武具進化」で強化することが可能です。必要の無くなった武具は「武具分解」で欠片にすることもできます。
+HELP_ARTI_TRANSMUTE_TITLE	武具錬成
+HELP_ARTI_TRANSMUTE_MSG	「武具錬成」では、「武具分解」やクエストで入手した武具の欠片を使用して、装備可能な武具を作成することができます。
+HELP_ARTI_EXP_TITLE	武具強化
+HELP_ARTI_EXP_MSG	「武具強化」では、ダマスク鉱石などの強化アイテムを使用して武具のレベルを上げることが出来ます。武具のレベルを上げることで武具のステータスが上昇します。武具の最大レベルはレアリティによって変動します。
+HELP_ARTI_DECOMPOSE_TITLE	武具分解
+HELP_ARTI_DECOMPOSE_MSG	「武具分解」では、手に入れた武具を分解して「欠片」の状態に戻すことが出来ます。欠片は「武具進化」に使用することができます。
+HELP_ARTI_RARITYUP_TITLE	武具進化
+HELP_ARTI_RARITYUP_MSG	「武具進化」では、手に入れた武具の「欠片」を使用して、武具のレアリティを上げることが出来ます。武具のレアリティが上がると、武具の最大レベルが上がる他、武具に特殊な効果が発生することがあります。
+HELP_ARTI_POSSESS_TITLE	武具一覧
+HELP_ARTI_POSSESS_MSG	武具一覧では、武具の所持一覧が確認できます。装備中の場合は、装備しているキャラが武具上部に表示されます。
+
+HELP_KAKERA_SHOP_TITLE	魂の交換所
+HELP_KAKERA_SHOP_MSG	魂の交換所では、最大まで限界突破を行ったユニットの「魂の欠片」をソウルコインに変換し、そのコインを使って高レアリティのアイテムなどと交換することができます。ソウルコインへの変換は「魂の欠片を変換」から行えます。
+HELP_LIMITED_SHOP_TITLE	秘密の店
+HELP_LIMITED_SHOP_MSG	秘密の店は、期間限定で登場する特別なお店になります。ゼニーや幻晶石を消費して「アイテム」や「装備品」、ユニットの「魂の欠片」等を回数限定で購入することができます。なお、秘密の店では商品一覧の更新はありません。
+HELP_EVENT_SHOP_TITLE	コイン交換所
+HELP_EVENT_SHOP_MSG	コイン交換所は、期間限定で登場する特別なお店になります。イベントコインを消費して「アイテム」や「装備品」、ユニットの「魂の欠片」等を購入することができます。
+HELP_UNITLIST_SKIN_TITLE	着せ替え
+HELP_UNITLIST_SKIN_MSG	『着せ替え』では、ショップやキャンペーン等で手に入れた特殊なスキンにキャラクターの衣装を変更することが出来ます。着せ替えは全てのジョブの衣装で適用されます。なお、スキンに有効期限は無く、何度でも着せ替え可能です。
+
+
+; TUTORIAL	
+TUT_REPLAY	もう一度動画を再生しますか？<br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_STREAMERR	通信エラーが発生しました。<br>インターネットの接続環境を<br>ご確認ください。
+TUT_MISSION	『ミッション』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_HEIGHT1	『高低差』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_EVOLVE1	『進化』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_AWAKE1	『限界突破』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_JOBRANK1	『装備』と『ジョブレベル』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_ABILITY1	『アビリティ』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_ATTACK1	『攻撃』と『移動』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_ATTACK2	『攻撃手段』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_ATTACK3	『攻撃方法』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_MAGIC1	『魔法』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_PARTY1	『編成』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_AUTOPLAY1	『オートバトル』についての<br>説明動画を再生しますか？ <br>再生をする場合は<br>『決定』ボタンを押してください。
+TUT_QE_ST_NO_010002	この先は難易度があがってくるのじゃ。<br>そんな装備で大丈夫か？<br>※多くのプレイヤーがこのクエスト以降<br>ゲームオーバーになっています。<br>「装備品」でパラメータをアップしますか？<br>
+TUT_QE_ST_NO_010003	この先は難易度があがってくるのじゃ。<br>そんな装備で大丈夫か？<br>※多くのプレイヤーがこのクエスト以降<br>ゲームオーバーになっています。<br>「装備品」でパラメータをアップしますか？<br>
+
+; ARTIFACT	
+ARTI_MAXRULV	Max Rank
+ARTI_EXPFULL1	Lv Cap reached, Evolve possible
+ARTI_EXPFULL2	Max Lv.
+ARTI_RARITYUP	Evo
+ARTI_RARITYUP_COST	Evo Cost
+ARTI_RARITYUP_REQ	{0}を<br>{1}個使用して進化させます。
+ARTI_RARITYUP_NOGOLD	進化に必要なゼニーが不足しています。
+ARTI_RARITYUP_NOMTRL	進化に必要な素材が不足しています。
+ARTI_RARITYUP_NOLV	進化に必要なレベルが不足しています。
+ARTI_RARITYUP_MAX	進化レベルは最大です。
+ARTI_RARITYUP_CONFIRM	{0}を<br>進化させてよろしいですか？
+ARTI_RARITYUP_MSG	進化レベルは最大です
+ARTI_TRANSMUTE_REQ	{0}を<br>{1}個使用して錬成します。
+ARTI_TRANSMUTE_NOKAKERA	{0}の<br>錬成に必要な欠片が足りません。
+ARTI_TRANSMUTE_NOGOLD	{0}の<br>錬成に必要なゼニーが足りません。
+ARTI_TRANSMUTE_MAXNUM	{0}は<br>これ以上錬成できません。
+ARTI_TRANSMUTE_CONFIRM	{0}を<br>錬成してもよろしいですか？
+ARTI_FULL	これ以上錬成できません。
+ARTI_NOKAKERA_ERR	錬成に必要な欠片が足りません。
+ARTI_SELL_CONFIRM	選択された武具を売却してもよろしいですか？
+ARTI_SELL_CONFIRM2	選択された武具はユニットによって装備されています。<br>このまま売却してもよろしいですか？
+ARTI_NOTHING2SELL	売却するものが選択されていません。
+ARTI_DECOMPOSE_HELP	{0}を<br>{1}{2}個に<br>変換します。
+ARTI_DECOMPOSE_NODEC	選択された武具を分解することはできません。
+ARTI_DECOMPOSE_NOGOLD	武具の分解に必要なゼニーが足りません。
+ARTI_DECOMPOSE_CONFIRM	選択された武具を分解してもよろしいですか？
+ARTI_DECOMPOSE_CONFIRM2	選択された武具はユニットによって装備されています。<br>このまま分解してもよろしいですか？
+ARTI_TRANSMUTE_TITLE	武具錬成
+ARTI_TRANSMUTE_REQGOLD	錬成費用
+ARTI_DECOMPOSE_TITLE	武具分解
+ARTI_DECOMPOSE_REQGOLD	分解費用
+ARTI_CANT_EQUIP	選択された武具は装備できません。
+ARTI_EQUIP_CONFIRM	選択された武具は{0}[{1}]によって装備されています。<br>このまま装備してもよろしいですか？
+ARTI_JOB	装備可能ジョブ
+ARTI_AMOUNT	Amount:
+ARTI_SELL_TITLE	武具売却
+ARTI_SELL_SELLNUM	選択数
+ARTI_SELL_GETGOLD	獲得ゼニー
+ARTI_EXP_TITLE	武具強化
+ARTI_EQUIPJOB_ALL	All
+ARTI_BTN_TRANSMUTE	Forge
+ARTI_BTN_CLEAR	Clear
+ARTI_BTN_SELL	Sell
+ARTI_BTN_DECOMPOSE	Decompose
+ARTI_MENU_TRANSMUTE	Forge
+ARTI_MENU_EXP	Enhance
+ARTI_MENU_RARITYUP	Evolve
+ARTI_MENU_DECOMPOSE	Decompose
+ARTI_MENU_SELL	Sell
+ARTI_MENU_LIST	List
+ARTI_MENU_DETAIL	Detail
+ARTI_MENU_HELP_TRANSMUTE	Create Artifact from Fragments!
+ARTI_MENU_HELP_EXP	武具のレベルを上げて強化！
+ARTI_MENU_HELP_RARITYUP	秘められた武具の力を解放！
+ARTI_MENU_HELP_DECOMPOSE	武具を欠片に変換！
+ARTI_KYOKA_MSG	強化レベルは最大です
+ARTI_OWNER_KAKERA	所持欠片
+ARTI_NOT_DECOMPOSE_MSG	分解できる武具がありません
+ARTI_NOTHING_MSG	武具がありません
+ARTI_NOT_SELL_MSG	武具がありません
+ARTI_TRANSMUTE_RESULT	武具錬成
+ARTI_MAX_LV	MAX Lv
+
+; 武具装備	
+ARTI_EQUIP_TITLE	Armament
+ARTI_EQUIP_REMOVE	Remove
+ARTI_EQUIP_MSG	Please select armament you want equip from the list on the right
+
+; 召喚ポップアップ	
+BTN_GACHA_DETAIL	Gacha Detail
+BTN_GACHA_DESCRIPTION	What is Gacha
+TITLE_POPUP_GACHA_DETAIL	Gacha Detail
+TITLE_POPUP_GACHA_DESCRIPTION	What is Gacha
+
+; FgG登録誘導ウィンドウ	
+FGG_WISH_TITLE	Setup FGGID
+FGG_WISH_LATER	Later
+FGG_WISH_SETUP	Setup
+
+; 引継ぎ時の警告ウィンドウ	
+HIKITSUGI_WARNING_TITLE	Caution
+
+; FgGウィンドウ	
+FGG_TITLE	FgGID
+FGG_NOT_SYNCHRONIZED_MSG	『FgGID』連携が完了しておりません。<br>タイトル画面よりFgGIDにログインを行い、FgGアプリの連携を行うことで、FgGアプリ間で様々な特典を受け取ることが可能です。<br><br>『決定』ボタンをタップすると、タイトル画面に戻ります。
+FGG_SYNC_REQUEST_MSG	プレイデータが消えてしまった!?そんなときでも<br>FgGIDの登録があれば、ログインだけでデータ引き継ぎ可能！<br>FgGIDの登録と連携完了で幻晶石250個プレゼント!<br>※登録後はFgGID連携をおこなってください
+
+; VIP周りの課金情報	
+TITLE_VIP_REMAINS	幻晶石300個+30日間毎日ボーナスについて
+MSG_VIP_REMAINS	幻晶石300個+30日間毎日ボーナス有効期間<br> 残り3日を過ぎてから、ご購入いただけます。
+
+APP_VERSION	ver:
+
+; 限定ショップ	
+HOMEBGUI_LIMITED_SHOP	Secret Shop
+TITLE_LIMITED_SHOP_BUY_COMPLETE	Purchase Complete
+MSG_LIMITED_SHOP_GIFT_SEND	以下のアイテムがギフトに贈られました
+MSG_LIMITED_SHOP_LOCK	In preparation...
+
+; イベント専用ショップ	
+HOMEBGUI_EVENT_SHOP	Coin Exchange
+TITLE_EVENT_SHOP_BUY_COMPLETE	Purchase complete
+MSG_EVENT_SHOP_GIFT_SEND	以下のアイテムがギフトに贈られました
+MSG_EVENT_SHOP_LOCK	In preparation...
+COINLIST_SHOP_BTN	To Shop
+COINLIST_ARENA	Coin earned from arena
+COINLIST_MULTI	Coin earned from Co-op
+COINLIST_ARENA_LOCK	Will be Unlock at Player Lv {0}
+
+; ショップ名	
+SHOPNAME_NORMAL	Anna Shop
+SHOPNAME_TABI	Maria Shop
+SHOPNAME_KIMAGURE	ルイザの店
+SHOPNAME_MONOZUK	ソウルショップ
+SHOPNAME_TOUR	ツアー
+SHOPNAME_ARENA	闘技場
+SHOPNAME_MULTI	マルチ
+SHOPNAME_KAKERA	魂の交換所
+SHOPNAME_ARTIFACT	武具
+
+MSG_ASSETS_DOWNLOADING2	Download time may vary with network conditions.<br>Usage of Wi-Fi is recommended
+
+; ストーリー再閲覧	
+REPLAY_CATEGORY_STORY	Story Quest
+REPLAY_CATEGORY_EVENT	Event Quest
+REPLAY_CATEGORY_CHARA	Character Quest
+REPLAY_CATEGORY_MOVIE	Movie
+REPLAY_CHECK	Replay Story?
+REPLAY_NOT_EXIST	No playable stories
+
+; チャレンジミッション	
+CHALLENGE_LOCKED	<color="#808080">？？？？？</color>
+CHALLENGE_DETAIL_TITLE	ミッション詳細
+CHALLENGE_DETAIL_REWARD_TITLE	ミッション達成時報酬
+CHALLENGE_DETAIL_REWARD	{0}×{1}
+CHALLENGE_DETAIL_REWARD_UNIT	★{0}Unit『{1}』
+CHALLENGE_DETAIL_REWARD_UNIT_BR	★{0}Unit<br>『{1}』
+CHALLENGE_DETAIL_REWARD_GET	{0}を獲得しました
+
+CHALLENGE_REWARD_GOLD	{0}Zeny
+CHALLENGE_REWARD_EXP	EXP {0}
+CHALLENGE_REWARD_COIN	幻晶石{0}個
+CHALLENGE_REWARD_STAMINA	AP {0}
+CHALLENGE_TRY	挑戦する
+CHALLENGE_REWARD_TITLE	ミッション報酬
+CHALLENGE_REWARD_PIECE	<color="#F4ED82">{0}×{1}</color>
+CHALLENGE_REWARD_NOTE	<color="#E0DE01">ユニットは「ユニットリスト」の「欠片ユニット」から錬成することができます</color>
+CHALLENGE_HELP_RECEIVE	報酬受取
+CHALLENGE_HELP_REWARD_TITLE	報酬：
+CHALLENGE_HELP_PROGRESS_TITLE	達成度：
+
+CHALLENGE_MSG_CLEAR	ミッション達成じゃ！<br>パネルをタップして報酬を受け取るがよい！
+CHALLENGE_MSG_REWARD_ITEM	ミッション報酬の{0}×{1}じゃ！<br>受け取るが良い！
+CHALLENGE_MSG_REWARD_OTHER	ミッション報酬の{0}じゃ！<br>受け取るが良い！
+CHALLENGE_MSG_INFO	ミッションコンプリートで{0}が受け取れるぞ！
+CHALLENGE_REWARD_ITEM	{0}×{1}
+
+; チャレンジミッションの条件に対応するヘルプID	
+CHALLENGE_HELP_WINQUEST	11
+CHALLENGE_HELP_WINQUESTSOLDIER	11
+CHALLENGE_HELP_WINELITE	11
+CHALLENGE_HELP_WINEVENT	12
+CHALLENGE_HELP_GACHA	96
+CHALLENGE_HELP_MULTIPLAY	85
+CHALLENGE_HELP_WINMULTI	85
+CHALLENGE_HELP_WINMULTIMORE	85
+CHALLENGE_HELP_WINMULTILESS	85
+CHALLENGE_HELP_ABILITY	58
+CHALLENGE_HELP_MAKEABILITYLEVEL	58
+CHALLENGE_HELP_SOUBI	67
+CHALLENGE_HELP_BUYGOLD	98
+CHALLENGE_HELP_ARENA	77
+CHALLENGE_HELP_WINARENA	77
+CHALLENGE_HELP_UPUNITLEVEL	44
+CHALLENGE_HELP_MAKEUNITLEVEL	44
+CHALLENGE_HELP_CHANGEABILITY	59
+CHALLENGE_HELP_UNITEQUIP	65
+CHALLENGE_HELP_UPJOBLEVEL	53
+CHALLENGE_HELP_MAKEJOBLEVEL	53
+CHALLENGE_HELP_LIMITBREAK	50
+CHALLENGE_HELP_EVOLTIONTIMES	49
+CHALLENGE_HELP_CHANGEJOB	55
+CHALLENGE_HELP_BUYATSHOP	97
+CHALLENGE_HELP_ARTIFACTTRANSMUTE	72
+CHALLENGE_HELP_ARTIFACTSTRENGTH	73
+CHALLENGE_HELP_ARTIFACTEVOLUTION	74
+
+; チャレンジミッションのミッション手順説明	
+CHALLENGE_HOWTO_WINQUEST	【クエストをx回達成する手順】
+CHALLENGE_HOWTO_WINQUESTSOLDIER	【傭兵を連れてN回クエストをクリアする手順】
+CHALLENGE_HOWTO_WINELITE	【エリートクエストをx回達成する手順】
+CHALLENGE_HOWTO_WINEVENT	【イベントクエストをx回達成する手順】
+CHALLENGE_HOWTO_GACHA	【ガチャをx回行う手順】
+CHALLENGE_HOWTO_MULTIPLAY	【マルチプレイをx回行う手順】
+CHALLENGE_HOWTO_WINMULTI	【マルチプレイをN回クリアする手順】
+CHALLENGE_HOWTO_WINMULTIMORE	【マルチでN人以上でクリアする手順】
+CHALLENGE_HOWTO_WINMULTILESS	【マルチでN人以下でクリアする手順】
+CHALLENGE_HOWTO_ABILITY	【アビリティをx回強化手順】
+CHALLENGE_HOWTO_MAKEABILITYLEVEL	【アビリティレベルをLvNにする手順】
+CHALLENGE_HOWTO_SOUBI	【装備をx回強化する手順】
+CHALLENGE_HOWTO_BUYGOLD	【ゲーム内通貨を課金コインを消費して購入する手順】
+CHALLENGE_HOWTO_ARENA	【アリーナをn回プレイ手順】
+CHALLENGE_HOWTO_WINARENA	【アリーナでn回勝利手順】
+CHALLENGE_HOWTO_UPUNITLEVEL	【ユニットのレベルをN上げる手順】
+CHALLENGE_HOWTO_MAKEUNITLEVEL	【ユニットのレベルをNにする手順】
+CHALLENGE_HOWTO_CHANGEABILITY	【アビリティセットを変更する手順】
+CHALLENGE_HOWTO_UNITEQUIP	【ユニットに装備品をN個装備させる手順】
+CHALLENGE_HOWTO_UPJOBLEVEL	【ユニットのJobLvをN上げる手順】
+CHALLENGE_HOWTO_MAKEJOBLEVEL	【ユニットのJobLvをNにする手順】
+CHALLENGE_HOWTO_LIMITBREAK	【限界突破をN回させる手順】
+CHALLENGE_HOWTO_EVOLTIONTIMES	【ユニットをN回進化させる手順】
+CHALLENGE_HOWTO_CHANGEJOB	【ジョブチェンジをN回行う手順】
+CHALLENGE_HOWTO_BUYATSHOP	【ショップでN個購入する手順】
+CHALLENGE_HOWTO_ARTIFACTTRANSMUTE	【武具錬成をN回行う手順】
+CHALLENGE_HOWTO_ARTIFACTSTRENGTH	【武具強化をN回行う手順】
+CHALLENGE_HOWTO_ARTIFACTEVOLUTION	【武具進化をN回行う手順】
+
+
+; 召喚結果 ユニット詳細	
+TITLE_GACHA_UDETAIL_1	First Job
+TITLE_GACHA_UDETAIL_2	Second Job
+TITLE_GACHA_UDETAIL_3	Third Job
+
+; ショップラインナップ	
+TITLE_SHOP_LINEUP	Lineup
+MSG_SHOP_LINEUP_CAUTION	※ラインナップ内容について、複数記載があるアイテムは確率で登場します。
+
+
+; チャット	
+BTN_ADD_BLOCK	Block
+BTN_REMOVE_BLOCK	Unblock
+BTN_ADD_FRIEND	Friend
+BTN_REMOVE_FRIEND	Unfriend
+FRIEND_BLACKLIST	Blocklist
+TITLE_CHAT_PLAYER_DETAIL	Player Detail
+BTN_SEND_MESSAGE	Send
+CHAT_POSTAT_DAY	{0}d ago
+CHAT_POSTAT_HOUR	{0}h ago
+CHAT_POSTAT_MINUTE	{0}m ago
+CHAT_POSTAT_SECOND	{0}s ago
+CHAT_POSTAT_NOW	now
+LASTLOGIN_SECOND	{0}s ago
+TEXT_CHAT_FUID	[ID:****{0}]
+TEXT_NONE_BLACKLIST	No one register in BlockList
+TITLE_SELECT_CHANNEL	Select Channel
+TEXT_SELECT_CHANNEL	CH{0}～{1}
+CONFIG_OPTION_CHAT	Chat Setting
+TEXT_CHAT_CHANNEL_TEMP	{0}～{1}
+TEXT_PAGER_TEMP	{0}/{1}
+CONFIG_OPTION_CHAT_STATE	Use chat
+MESSAGE_NOUSED_CHAT	Chat is disable<br> You can enable chat from option screen
+NAME_CHAT_OFFICAL	運営からのお知らせ
+MESSAGE_MAINTENANCE_CHAT	Chat function is under maintenance
+MESSAGE_ADD_BLOCK	Added to BlockList
+MESSAGE_REMOVE_BLOCK	Remove from BlockList
+TITLE_REMOVE_FRIEND	Remove Friend
+MESSAGE_SELECT_REMOVE_FRIEND	Unfriend this user？
+HELP_CHAT_TITLE	Chat
+HELP_CHAT_MSG	チャットでは、チャンネル毎にプレイヤー間でのメッセージ送信が可能です。なお、メッセージ送信後、10秒以内にメッセージの再送信はできません。ブロックを行うと、ブロックした相手からのメッセージは非表示になります。
+TITLE_CHAT_TAB_WORLD	Global
+
+; 召喚トップ 武具タイプ	
+TITLE_ARTIFACT_TYPE	種類：{0}
+
+; 塔	
+TOWER_REWARD_TITLE	Rewards
+TOWER_RECOVER_TIME	Free Recovery:
+TOWER_RECOVER_FREE	Free
+TOWER_RESET_FREE	Free
+TOWER_ALIVE_UNITS	Alive Units:
+TOWER_REWARD_TEXT	Clear Reward:
+TOWER_UNKNOWN_TEXT	{0}階をクリアすると敵情報を<br>確認できるようになります。
+TOWER_RECOMMENDATION_TEXT	推奨： Lv {0} / JobLv {1}
+MSG_TOWER_RECOVER	幻晶石を <color="#fff080">{0}個 </color>使用して<br>全ユニットを回復する事が出来ます。<br><br>回復しますか？
+MSG_TOWER_RECOVERED	全ユニットの体力が回復しました。<br>幻晶石を <color="#fff080">{0}個 </color>使用しました。
+MSG_TOWER_COIN_NOT_ENOUGH	幻晶石が不足しています。
+CAPTION_TOWER_RECOVERED	Unit Recovered
+CAPTION_TOWER_COIN_NOT_ENOUGH	幻晶石不足。
+CAPTION_TOWER_EVENT_DETAIL	Event Details
+ERROR_TOWER_DEAD_UNIT	出撃できないユニットが含まれています。
+TOWER_CLEAR_DESC	{0}最上階<color="#fff080">{1}</color>階をクリア!
+TOWER_CHALLENGE	Challenge!
+TOWER_RESET	Restart from 1F
+TOWER_RESET_CHECK	塔のクリア状態をリセットし、<br>再度1階からプレイを行います。<br>リセットを行うには、幻晶石<color="#fff080">{0}</color>個必要です。<br>リセットを行いますか？<br>※リセット後の各階層のクリア報酬は<br>初回クリア報酬とは異なります。
+ERROR_TOWER_TIME_OUT_TITLE	開催期間が終了しております
+ERROR_TOWER_TIME_OUT	『異層塔ヴェーダ』について開催期間が終了しているため、復帰ができませんでした。次回開催まで今しばらくお待ち下さい。
+TOWER_STATUS	Status
+TOWER_RANK_LABEL	Rank
+TOWER_RANK_SCORE	スコア内訳
+TOWER_RANK_TURN	行動回数
+TOWER_RANK_DIED	ユニット戦闘不能回数
+TOWER_RANK_RETIRE	撤退回数
+TOWER_RANK_RECOVER	全ユニット回復数
+TOWER_RANK_NOW	現在のスコア
+TOWER_RANK_BEST	Best Score
+TOWER_RANK_SPEED	Speed Ranking
+TOWER_RANK_TECH	Technical Ranking
+TOWER_RANK_MSG	Ranking
+TOWER_RANK_SPD	Speed
+TOWER_RANK_TEC	Technical
+TOWER_RANK_TOTAL_TURN	累計行動回数
+TOWER_RANK_TOTAL_DIED	ユニット戦闘不能数
+TOWER_RANK_NOT_DATA	集計中...
+TOWER_RANK_LBL_LV	Lv
+
+
+;ユニット召喚	
+GET_UNIT_WINDOW_TITLE	召喚するユニットを選択してください
+GET_UNIT_WINDOW_UNLOCK	召喚確認
+GET_UNIT_WINDOW_PIECE	魂の欠片に変換します。よろしいですか？
+GET_UNIT_OK	Gacha
+GET_UNIT_CANCEL	Cancel
+GET_UNIT_WINDOW_DESC	Tap the icon for more detail
+GET_UNIT_WINDOW_DESC2	※すでにユニットを所持している場合は、<br>魂の欠片として入手可能です。
+GET_UNIT_WINDOW_UNIT_NAME	{0}を召喚しますか？
+GET_UNIT_HELP_TITLE	Selectable Gacha Ticket
+GET_UNIT_HELP	選べる召喚チケットは、表示されているユニットの中から1体選ぶことが可能です。既に所持している場合は、魂の欠片として受け取れます。<br>※魂の欠片個数はどのレアリティのユニットを選んでも一律25個となります。
+
+;アイテム選択	
+GET_ITEM_WINDOW_TITLE	獲得したいアイテムを選んでください
+GET_ITEM_WINDOW_UNLOCK	選べるアイテムチケット
+GET_ITEM_OK	OK
+GET_ITEM_CANCEL	Cancel
+GET_ITEM_WINDOW_DESC	アイコンをタップで詳細確認
+GET_ITEM_WINDOW_CHECK	このアイテムでよろしいですか？
+GET_ITEM_HELP_TITLE	選べるアイテムチケット
+GET_ITEM_HELP	選べるアイテムチケットは、表示されているアイテムの中から1つ選ぶことが可能です。<br>好きなアイテムを1回のみ選択可能で、OKボタン押下後、アイテムは直接付与されます。
+GET_ITEM_RESULT	以下のアイテムを取得しました
+
+;武具選択	
+GET_ARTIFACT_WINDOW_TITLE	召喚したい武具を選んでください
+GET_ARTIFACT_WINDOW_UNLOCK	選べる武具チケット
+GET_ARTIFACT_OK	Gacha
+GET_ARTIFACT_CANCEL	Cancel
+GET_ARTIFACT_WINDOW_CHECK	この武具を召喚しますか？
+GET_ARTIFACT_HELP_TITLE	選べる武具召喚チケット
+GET_ARTIFACT_HELP	選べる武具召喚チケットは、表示されている武具の中から1つ選ぶことが可能です。<br>召喚された武具は直接付与となりますが、武具の最大所持数に達している場合は、ギフトに付与されます。
+GET_ARTIFACT_DETAIL	武具詳細
+GET_ARTIFACT_RESULT	以下の武具を召喚しました
+
+;傭兵選択	
+SUPPORT_SET_TITLE	Select Mercenary
+SUPPORT_SET_PICKER_TITLE	Select Mercenary
+SUPPORT_CHANGE	Change
+;WebView	
+MSG_NOT_WEBVIEW_URL	We are preparing the current page
+
+;汎用	
+TEXT_FREE	Free
+TEXT_PAID	Paid
+TEXT_PCS	Pcs
+TEXT_NAME	Name
+
+;称号	
+TITLE_AWARD_LIST	Title List
+TITLE_AWARD_DETAIL	Title Detail
+CONFIRM_SELECT_AWARD	Do you want to set this title?
+BTN_SELECT_AWARD	Title Setting
+TEXT_AWARD	Title
+TEXT_NO_AWARD	？？？
+TEXT_NOT_SELECT	Not Set
+TEXT_REMOVE_AWARD	Remove
+HELP_AWARD_TITLE	Title
+HELP_AWARD_MSG	『Title』can be earned at Event and mission。TItle will be displayed at Arena and Multi。
+
+;召喚履歴	
+TITLE_GACHA_HISTORY	History
+TEXT_GACHA_HISTORY_FOOTER	Result
+TEXT_NO_GACHA_HISTORY	Gacha History not found
+
+;お客様コードコピー	
+OKYAKUSAMACODE_COPY_TITLE	Customer Code
+OKYAKUSAMACODE_COPY_DESC	Your Customer Code
+OKYAKUSAMACODE_COPY_BTN_TEXT	Copy
+OKYAKUSAMACODE_COPY_FINISH	Copy Finish
+OKYAKUSAMACODE_COPY_MESSAGE	Copy Customer Code to Clipboard.
+
+；キャラクエ一覧	
+CHARA_QUEST_CHARA_TITLE	Chara Story
+CHARA_QUEST_COLLABO_SKILL_TITLE	Collaboration skill Character Story
+CHARA_QUEST_FILTER_ALL	View All
+CHARA_QUEST_FILTER_UNLOCK	Unlocked
+CHARA_QUEST_FILTER_LOCK	Locked
+CHARA_QUEST_FILTER_COMPLETE	Clear
+COLLABO_SKILL_QUEST_CONDITION	Clear {0}
+
+
+; 対戦ランク	
+VERSUS_RANK_0	Beginner【0】
+VERSUS_RANK_1	Beginner【1】
+VERSUS_RANK_2	Beginner【2】
+VERSUS_RANK_3	Beginner【3】
+VERSUS_RANK_4	D【0】
+VERSUS_RANK_5	D【1】
+VERSUS_RANK_6	D【2】
+VERSUS_RANK_7	D【3】
+VERSUS_RANK_8	C【0】
+VERSUS_RANK_9	C【1】
+VERSUS_RANK_10	C【2】
+VERSUS_RANK_11	C【3】
+VERSUS_RANK_12	B【0】
+VERSUS_RANK_13	B【1】
+VERSUS_RANK_14	B【2】
+VERSUS_RANK_15	B【3】
+VERSUS_RANK_16	A【0】
+VERSUS_RANK_17	A【1】
+VERSUS_RANK_18	A【2】
+VERSUS_RANK_19	A【3】
+VERSUS_RANK_20	AA【0】
+VERSUS_RANK_21	AA【1】
+VERSUS_RANK_22	AA【2】
+VERSUS_RANK_23	AA【3】
+VERSUS_RANK_24	Master
+
+;召喚履歴	
+TITLE_GACHA_HISTORY	Gacha History
+TEXT_GACHA_HISTORY_FOOTER	Result
+TEXT_NO_GACHA_HISTORY	No Gacha History
+
+;ログインポップアップ	
+TEXT_LOGININFO_GACHA	To Gacha
+TEXT_LOGININFO_LIMITEDSHOP	To Secret Shop
+TEXT_LOGININFO_EVENTQUEST	To Event
+TEXT_LOGININFO_TOWERQUEST	To Veda
+TEXT_LOGININFO_BUYCOIN	To Gem Shop
+
+;お問い合わせ	
+CONTACT_SUBJECT_01	Question regarding data recovery
+CONTACT_SUBJECT_02	Question about gem purchase
+CONTACT_SUBJECT_03	Bug report
+CONTACT_SUBJECT_04	Question for FgG ID
+CONTACT_SUBJECT_05	Request and Opinion
+CONTACT_SUBJECT_06	Other
+
+;Ap回復	
+TEXT_APHEAL_CHECK_AP_HEAL	Not enough AP<br> want to recover AP？
+TEXT_APHEAL_TITLE	AP Rec
+TEXT_APHEAL_LACK	No AP。
+TEXT_APHEAL_LACK_POINT	Lack {0} AP
+TEXT_APHEAL_ITEM_NUM	{0}
+TEXT_APHEAL_USE	Use {0}。
+TEXT_APHEAL_CHECK_USE	Use {0}<br>Want to recover AP？
+TEXT_APHEAL_HEAL_NUM	AP Recover
+TEXT_APHEAL_RESULT_APAP : {0}
+TEXT_APHEAL_RESULT	Recovered AP。
+TEXT_APHEAL_OVERFLOW	Excessive AP will be disappear, continue？
+
+;武具フィルター	
+FILTER_AF_WEAPON	Weapon
+FILTER_AF_ARMOR	Armor
+FILTER_AF_ACCESSORY	Accesory
+FILTER_AF_FAVORITE	Favorite only
+
+;武具タブ	
+ARTIFACT_TAB_LIST	List
+ARTIFACT_TAB_TRANSMUTE	Transmute
+ARTIFACT_TAB_DECOMPOSE	Decompose
+ARTIFACT_TAB_SELL	Sell
+ARTIFACT_DETAIL_TAB_DEFAULT	Default
+ARTIFACT_DETAIL_TAB_EVOLUTION	Evolve
+ARTIFACT_DETAIL_TAB_ENHANCE	Enchance
+ARTIFACT_FAVORITE	Favorite
+ARTIFACT_EVOLUTION_TEXT	Consume item to evolve?
+ARTIFACT_EVOLUTION_NO_ITEM	Do not posses evolution item
+ARTIFACT_PIECE	Fragment：
+
+;武具タブ	
+EQUIP_ARTIFACT_SLOT_TOOLTIP	Armament unlock at『{0}』
+
+;武具用ソート	
+SORT_LUCK	Luck
+SORT_TYPE	Type
+
+;武具ツールチップ	
+TOOLTIP_ARIFACT_UNLOCK	Armament Unlocked
+
+;動画	
+CONFIRM_MOVIE_SKIP	Skip Event？
